@@ -1,0 +1,611 @@
+Total item : 21890
+Total class : 608
+
+acanthosis nigricans:64
+accessory nipple:10
+accessory trachus:6
+acid burn:2
+acne closed comedo:43
+acne cystic:147
+acne excoriated:28
+acne histology:3
+acne infantile:16
+acne keloidalis:61
+acne mechanica:1
+acne open comedo:72
+acne primary lesions:6
+acne pustular:72
+acne scar:11
+acquired digital fibrokeratoma:7
+acrocyanosis:3
+acrodermatitis chronica atrophicans:2
+acrodermatitis enteropathica:6
+actinic cheilitis squamous  cell lip:62
+actinic comedones:15
+actinic granuloma:5
+actinic keratosis 5 fu:61
+actinic keratosis arm:3
+actinic keratosis ear:14
+actinic keratosis face:60
+actinic keratosis hand:37
+actinic keratosis horn:26
+actinic keratosis lesion:54
+actinic keratosis nose:14
+actinic keratosis pigmented:12
+actinic keratosis scalp:9
+actinic keratosis trunk:1
+actinomycosis:3
+acute generalized exanthematous pustulosis:1
+acute paronychia:28
+addison disease:2
+aids (acquired immunodeficiency syndrome):51
+albinism:9
+allergic contact dermatitis:173
+alopecia areata:104
+anagen effluvium:7
+androgenic alopecia men:5
+androgenic alopecia women:10
+angioedema:26
+angiokeratomas:49
+ants:11
+argyria:2
+arsenical keratoses:17
+arteriovenous malformation:4
+atopic dermatitis adult phase:331
+atopic dermatitis childhood phase:123
+atopic dermatitis feet:26
+atopic dermatitis hyperlinear creases:15
+atopic dermatitis infant phase:92
+atrophoderma:2
+atrophy blanche:6
+atypical fibroxanthoma:2
+atypical mycobacterium:17
+atypical nevi dermoscopy:57
+atypical nevi trunk:17
+atypical nevi:47
+axillary granular parakeratosis:9
+bacterial vaginosis:3
+balanitis bacterial:4
+basal cell carcinoma aldara:6
+basal cell carcinoma arm:2
+basal cell carcinoma ear:37
+basal cell carcinoma face:44
+basal cell carcinoma histology:9
+basal cell carcinoma leg:1
+basal cell carcinoma lesion:129
+basal cell carcinoma lid:38
+basal cell carcinoma lip:34
+basal cell carcinoma nose:66
+basal cell carcinoma pigmented:76
+basal cell carcinoma scalp:15
+basal cell carcinoma sclerosing:4
+basal cell carcinoma superficial:63
+basal cell carcinoma surgery:2
+basal cell carcinoma trunk ext:12
+basal cell carcinoma vulva:1
+basal cell nevus syndrome:20
+beaus lines:29
+bechet:2
+becker nevus:29
+benign familial chronic pemphigus:31
+birt hogg dube:14
+biting excoriation:20
+biting fleas:17
+biting insects:57
+black heel:18
+blue nails minocycline:4
+blue nevus ota:10
+blue nevus:14
+botryomycosis staph:2
+bowen disease:93
+bowenoid papulosis:8
+bullous pemphigoid:108
+cactus granuloma:2
+café-au-lait spots:3
+calcifying epithelioma:5
+calcinosis cutis:3
+candida groin:13
+candida penis:63
+candidiasis chronic mucocutaneous:5
+candidiasis diaper:29
+candidiasis large skin folds:193
+candidiasis mouth:16
+candidiasis vaginal:14
+cat bite:3
+cat scratch disease:8
+caterpillar dermatitis:10
+cement dermatitis burns:2
+chancroid:6
+chapped fissured feet:42
+chemotherapy:4
+cherry angioma:30
+chilblains perniosis:39
+cholinergic urticaria:14
+chondrodermatitis nodularis:78
+chronic bullous dermatosis childhood:1
+chronic paronychia:58
+clubbing:15
+coccidiomycosis:5
+cold urticaria:2
+collagenoma:1
+colloid milia:10
+color changes:2
+confluent reticulate papillomatosis:7
+congenital anomalies:8
+congenital nevus:55
+connective tissue nevus:2
+contact airborne:3
+contact dermatitis leg ulcers:4
+corns:38
+cosmetic fragrance allergy:7
+cowden disease:8
+crest syndrome:43
+cryoglobulinemia:7
+ctcl cutaneous t-cell lymphoma:105
+cutaneous horn:29
+cutaneous larva migrans:48
+cutis marmorata telangiectatica congenita:2
+cylindroma:15
+cytomegalovirus:1
+dariers disease:66
+degos disease:4
+dermagraphism:43
+dermatitis herpetiformis:96
+dermatitis swimming:24
+dermatofibroma:148
+dermatofibrosarcoma:4
+dermatomyositis:57
+dermatosis papulosa nigra:8
+desquamation:9
+diabetes mellitus:14
+diabetic bullae:28
+discoid lupus:2
+dissecting cellulitis:13
+distal splitting hang nail:22
+distal subungual onychomycosis:174
+drug eruption photo sensitivity:16
+drug eruptions:107
+drug lichenoid eruption:14
+dry nails:7
+dry xerosis (dry skin):3
+duck itch:13
+dupuytren contracture:2
+dyshidrosis:59
+eccrine spiradenoma:3
+ecthyma gangrenosum:1
+ecthyma:2
+eczema acute:43
+eczema anal:4
+eczema areola:22
+eczema arms:14
+eczema asteatotic:51
+eczema axillae:1
+eczema chronic:52
+eczema ears:6
+eczema face:10
+eczema fingertips:142
+eczema foot:97
+eczema hand:302
+eczema herpeticum:59
+eczema histology:6
+eczema hyperkeratotic:2
+eczema impetiginized:13
+eczema leg:26
+eczema lids:19
+eczema nummular:236
+eczema penis:1
+eczema scrotum:4
+eczema subacute:113
+eczema trunk generalized:34
+eczema vaccinatum:2
+eczema vulva:8
+elastosis perferans:4
+emersion foot:5
+endometriosis:2
+enterovirus:32
+epidermal cyst:241
+epidermal nevus inflammatory:6
+epidermal nevus:73
+epidermodysplasia verruciformis:3
+epidermolysis bullosa:59
+erosio interdigitalis blastomycetica:36
+erysipelas:11
+erysipeloid:5
+erythema ab igne:23
+erythema annulare centrifugum:18
+erythema dyschromium perstans:5
+erythema elevatum diutinum:2
+erythema infectiosum:37
+erythema multiforme:178
+erythema neonatorum:3
+erythema nodosum:44
+erythrasma:18
+erythrokeratodermia variabilis:4
+erythromelalgia:6
+erythromelanosis follicularis faciei colli:5
+erythroplasia queyrat:8
+erythropoietic protoporphyria:3
+exfoliative dermatitis:8
+exostosis:5
+extramammary paget disease:8
+extraneous digits:1
+factitial dermatitis:10
+fiberglass dermatitis:7
+fibromatosis progressive:2
+fixed drug eruption:73
+follicular keratosis:2
+follicular mucinosis:10
+folliculitis decalvans:15
+folliculitis gram negative:1
+freckles:1
+furuncles carbuncles:26
+genital ulcers:2
+genital warts:139
+gianotti crosti:19
+glucagonoma:7
+gonorrhea:11
+gout:10
+grain shoveler itch:3
+gram negative folliculitis:28
+granular cell tumor:2
+granulation tissue:44
+granuloma annulare:186
+granuloma faciale:5
+granuloma hair:1
+granuloma inguinale:1
+grovers disease:59
+habit tic deformity:51
+halo nevus:31
+hand foot mouth disease:30
+heels dry cracked:12
+hemangioma infancy:60
+hemangioma traumatized:2
+hemangioma:67
+hematoma splinter hem:10
+henoch schönlein purpura:25
+herpes buttocks:30
+herpes cutaneous:114
+herpes gestationis (pemphigoid gestationis):15
+herpes immunocompromised:7
+herpes simplex:61
+herpes type 1 primary:72
+herpes type 1 recurrent:102
+herpes type 2 primary:67
+herpes type 2 recurrent:53
+herpes zoster:444
+hidradenitis suppurativa:102
+hirsutism:3
+histiocytosis x:5
+hot comb alopecia:3
+hydroa aestivale:3
+hydroa vacciniforme:8
+hydrocystoma:10
+hyperhidrosis:5
+hyperkeratosis:3
+hypothyroidism:2
+ichthyosis dominant:37
+ichthyosis other forms:42
+ichthyosis sex linked:46
+id reaction:11
+idiopathic guttate hypomelanosis:16
+impetigo:76
+ingrown eyelash:2
+ingrown nail:18
+interstitial granulomatous dermatitis:20
+intertrigo:94
+intraepidermal epithelioma:2
+iododerma:3
+irritant contact dermatitis:8
+kaposi sarcoma:42
+kawasaki syndrome:29
+keloids:77
+keratoacanthoma:274
+keratolysis exfoliativa:51
+keratosis pilaris:79
+keratosis punctata:4
+kerion:18
+klinefelter syndrome:2
+knuckle pads:1
+koilonychia:20
+kyrle disease:10
+leiomyomata:10
+leishmaniasis:7
+lentigo adults:85
+lentigo children:1
+lentigo maligna:29
+leprosy:19
+leser trelat:2
+letterer-siwe:5
+leukemia:4
+leukonychia:8
+leukoplakia:15
+lichen amyloidosis:45
+lichen myxedematosus:6
+lichen nitidus:16
+lichen planopilaris:4
+lichen planus drug:26
+lichen planus hypertrophic:22
+lichen planus oral:321
+lichen planus palm soles:11
+lichen planus penis:13
+lichen planus vaginal:13
+lichen sclerosis vulva:40
+lichen sclerosus penis:38
+lichen sclerosus skin:125
+lichen simplex chronicus:214
+lichen spinulosa:2
+lichen striatus:2
+lipoid proteinosis (urbach–wiethe disease):11
+livido reticularis:11
+localized pemphigoid:10
+lupus acute:51
+lupus chronic cutaneous:141
+lupus neonatal:2
+lupus subacute:9
+lupus vulgaris:2
+lyme disease:25
+lymphangioma circumscriptum:23
+lymphangitis:1
+lymphocytic infiltrate jessner:1
+lymphocytoma cutis:4
+lymphogranuloma venereum:2
+lymphoma:1
+lymphomatoid papulosis:3
+lymphosarcoma:1
+maceration:5
+maculae cerulea:6
+macular atrophy:6
+majocchi granuloma:14
+majocchi purpura tel:2
+malignant melanoma:190
+malum ulcer:1
+mastocytosis:8
+measles:1
+median nail dystrophy:33
+meischer granuloma face:2
+melanocytic nevi:99
+melanoma mimic:24
+melanotic macule:10
+melasma:35
+melkersson rosenthal:1
+meningococcemia:8
+merkel cell cancer:2
+metal dermatitis:12
+metastasis:34
+milia:17
+milroy disease:6
+minocycline pigmentation:8
+mixed connective tissue disease:3
+molluscum contagiosum:168
+mongolian spot:4
+monilethrix:1
+monkey pox:1
+morphea:95
+mucous cyst:103
+muir-torre syndrome:5
+mycetoma:4
+myiasis:12
+nail melanoma:5
+natural rubber latex allergy:5
+necrobiosis lipoidica:84
+neurofibromas:18
+neurofibromatosis:70
+neurotic excoriations:66
+nevoxanthoendothelioma:12
+nevus anemicus:15
+nevus comedonicus:6
+nevus repigmented:4
+nevus sebaceous:62
+nevus spilus:34
+normal variations:6
+north american blastomycosis:3
+notalgia paraesthetica:5
+ochronosis:2
+onychogryphosis:11
+onycholysis:65
+orf:5
+osler node:1
+otitis externa:14
+pachyonychia congenita:8
+paget disease breast:14
+palmoplantar keratoderma:6
+panniculitis:2
+parasitosis psychogenic:5
+patch testing:57
+pearly penile papules:15
+pediculosis body:2
+pediculosis lids:5
+pediculosis pubic:48
+pediculosis scalp:6
+pellagra:5
+pemphigus foliaceous:89
+perioral dermatitis:151
+periungual epidermal cyst:3
+periungual fibroma:4
+periungual warts:14
+perlèche:73
+phlebitis superficial:5
+phototoxic reactions:106
+piebaldism:6
+pigmented bands:13
+pilar cyst:51
+pili annulati:4
+pili torti:1
+pincer nails:19
+pinkus tumor:3
+pitted keratolysis:7
+pityriasis alba:32
+pityriasis lichenoides:55
+pityriasis rosea:189
+pityriasis rubra pilaris:67
+pityrosporum folliculitis:9
+poikiloderma civatte:9
+polyarteritis nodosa:2
+polymorphous light eruption:41
+polytrichia:2
+pompholyx:36
+porokeratosis:76
+porphyrias:73
+postinflammatory hyperpigmentation:6
+pressure urticaria:31
+pretibia myxedema:27
+prominent sebaceous glands and fordyce spots:17
+proximal subungual onychomycosis:12
+prurigo nodularis:50
+pseudocyst auricle:1
+pseudomonas cellulitis:47
+pseudomonas folliculitis:65
+pseudopelade:5
+pseudoporphyria:10
+pseudoxanthoma elasticum:8
+psoriasis anus:22
+psoriasis cellulitis:3
+psoriasis chronic plaque:321
+psoriasis digits:5
+psoriasis erythrodermic:39
+psoriasis guttate:118
+psoriasis hand:57
+psoriasis histology:25
+psoriasis hiv:176
+psoriasis infants:6
+psoriasis inversus:42
+psoriasis light sensative:13
+psoriasis nails:40
+psoriasis palms soles:203
+psoriasis penis:29
+psoriasis pustular generalized:64
+psoriasis scalp:109
+psoriasis treatment:10
+psoriasis vulva:2
+psoriatic arthritis:2
+purpura vomiting:3
+pyoderma gangrenosum:29
+pyogenic granuloma:112
+radiation dermatitis:4
+raynaud disease:5
+reflex sympathetic dystrophy:1
+reiter syndrome:20
+relapsing polychondritis:4
+rheumatoid nodule:8
+rhus dermatitis:83
+ridging beading:32
+rocky mountain spotted fever:4
+rosacea granulomatous:2
+rosacea nose:78
+rosacea steroid:10
+rosacea:138
+roseola infantum:6
+sarcoid:29
+scabies:201
+scarlet fever:35
+schamberg disease:78
+scleroderma:43
+sebaceous hyperplasia:108
+seborrheic dermatitis:288
+seborrheic keratoses ruff:514
+seborrheic keratoses smooth:134
+seborrheic keratosis irritated:176
+sheathed hair:2
+shoe allergy:16
+skin splitting fissure:3
+skin tags polyps:98
+small pox:4
+spider angioma:17
+spiders:35
+spiny keratoderma:7
+spitz nevus:9
+splinter hemorrhage:11
+squamous cell carcinoma ear:38
+squamous cell carcinoma face:10
+squamous cell carcinoma hand arm:14
+squamous cell carcinoma histology:1
+squamous cell carcinoma leg:3
+squamous cell carcinoma lesion:30
+squamous cell carcinoma lip:28
+squamous cell carcinoma nose:6
+squamous cell carcinoma scalp:2
+squamous cell carcinoma trunk:1
+squamous cell carcinoma vulva:2
+staphylococal diaper dermatitis:4
+staphylococcal folliculitis:38
+staphylococcal scalded skin syndrome:4
+stasis dermatitis and ulcers:174
+stevens-johnson syndrome:10
+stinging insects:3
+streptococci anal penis:4
+striae distensae:3
+stucco keratoses:61
+sun damaged skin:126
+sunburn:8
+supernumerary digits:1
+sweets syndrome:9
+sycosis barbae:18
+syphilis:21
+syringoma:51
+systemically induced allergic dermatitis:3
+telangiectasias:58
+telogen effluvium:7
+temporal arteritis:1
+terry nails:6
+tes cate5:1
+test cat 6:5
+thrombosed vein:2
+ticks:59
+tinea (ringworm) beard:17
+tinea (ringworm) body:220
+tinea (ringworm) border:5
+tinea (ringworm) face:64
+tinea (ringworm) foot dorsum:65
+tinea (ringworm) foot plantar:53
+tinea (ringworm) foot webs:80
+tinea (ringworm) groin:126
+tinea (ringworm) hand dorsum:67
+tinea (ringworm) incognito:64
+tinea (ringworm) laboratory:76
+tinea (ringworm) nigra:4
+tinea (ringworm) palm:50
+tinea (ringworm) primary lesion:67
+tinea (ringworm) scalp:71
+tinea (ringworm) versicolor:224
+tinea tonsurans adult:2
+toxic epidermal necrolysis:3
+traction alopecia:3
+trauma:42
+trichoepithelioma:2
+trichofolliculoma:5
+tricholemmoma:1
+trichomycosis:7
+trichorrhexis nodosa:4
+trichotillomania:22
+tuberous sclerosis:61
+tufted folliculitis:12
+twenty nail dystrophy:14
+unilateral laterothoracic exanthem:3
+unilateral telangiectasia:4
+urticaria acute:104
+urticaria vasculitis:19
+varicella:65
+vascular anomaly:8
+vasculitis:143
+venous lake:47
+venous malformations:73
+verrucous carcinoma:5
+viral exanthems:100
+vitiligo:52
+warts common:117
+warts cryotherapy:37
+warts digitate:111
+warts flat:73
+warts immunocompromised:14
+warts mouth:8
+warts oral:9
+warts periungual:29
+warts plantar:116
+warts treatment:3
+weathering nodules:5
+weber christian:2
+white nails:1
+white superficial onychomycosis:16
+xanthogranuloma:1
+xanthomas:83
+yellow nails:19

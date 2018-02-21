@@ -1,0 +1,7 @@
+Total item : 11756
+Total class : 4
+
+('basal_cell_carcinoma', 3084)
+('acne', 2956)
+('seborrheic keratosis', 2876)
+('rosacea', 2840)

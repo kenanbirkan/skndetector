@@ -1,0 +1,2854 @@
+Total item : 10573
+Total class : 2850
+
+ collagenous and elastotic marginal plaques of the hands (cemph) pathology:3
+ jessner lymphocytic infiltrate:1
+ oral allergy foods associated with birch pollen:1
+ perineal pyramidal protrusion:2
+ trichodiscoma pathology:3
+ trichodiscoma pathology:3
+ urticarial dermatitis:3
+>
+:3
+abscess from collagen test:1
+abscess:7
+acacia:1
+acanthoma fissuratum :1
+acanthoma fissuratum — dermoscopy view:1
+acanthoma fissuratum:1
+acanthosis nigricans :2
+acanthosis nigricans:8
+achromic naevus :5
+achromic naevus:1
+acitretin diffuse hair loss:1
+acitretin nail thinning:2
+acne affecting the back images:41
+acne agminata around eyelid:1
+acne agminata:2
+acne conglobata:1
+acne due to systemic steroids:1
+acne excorie:2
+acne excorieé:1
+acne flare:1
+acne fulminans:2
+acne in pregnancy:1
+acne in sapho:1
+acne keloidalis nuchae pathology:4
+acne keloidalis:6
+acne scarring:5
+acne scars:6
+acne urticata:3
+acne vulgaris:6
+acne-cyst:1
+acne: brown marks:1
+acne: pink marks:1
+acne: white marks:1
+acne:181
+acquired blaschkoid dermatitis:1
+acquired elastotic haemangioma  pathology:3
+acquired ichthyosis in kava drinker :1
+acquired ichthyosis:2
+acquired keratoderma:6
+acquired lymphangiectasia:1
+acquired plate-like osteoma cutis in patient with prader-willi syndrome:1
+acral lentiginous melanoma 0.95 mm:1
+acral lentiginous melanoma :5
+acral lentiginous melanoma:1
+acral lentignous melanoma:9
+acral naevus:1
+acral vitiligo:1
+acrodermatitis continua of hallopeau after 2 months use of clobetasol ointment:1
+acrodermatitis continua of hallopeau before using clobetasol ointment:1
+acrodermatitis continua of hallopeau:6
+acrodermatitis continua:2
+acrodermatitis enteropathica:10
+acrokeratoelastoidosis:1
+acrokeratosis neoplastica:2
+acrokeratosis verruciformis of hopf:4
+acromegaly:2
+acropustulosis of infancy:3
+acrylic nail:1
+actilite:2
+actinic cheilitis:6
+actinic granuloma  pathology:2
+actinic granuloma:3
+actinic keratoses affecting the face :1
+actinic keratoses affecting the face:63
+actinic keratoses affecting the hands:40
+actinic keratoses affecting the legs and feet :10
+actinic keratoses affecting the legs and feet:12
+actinic keratoses affecting the scalp:21
+actinic keratoses on the nose:5
+actinic keratoses treated with imiquimod :50
+actinic keratoses treated with imiquimod:1
+actinic keratoses:12
+actinic keratosis treated with fluorouracil cream:1
+actinic keratosis:2
+actinic prurigo:3
+actinic reticuloid - severe chronic photosensitivity dermatitis:1
+actinomycetoma foot and legs:1
+acute dermatitis:2
+acute eczema pathology:3
+acute generalised exanthematous pustulosis (agep) pathology :3
+acute generalised exanthematous pustulosis (agep):9
+acute generalised exanthematous pustulosis:1
+acute gout:1
+acute guttate psoriasi:1
+acute herpetic paronychia:1
+acute irritant contact dermatitis:1
+acute localised exanthematous pustulosis:2
+acute paronychia:1
+acute phytophotodermatitis, which was followed by hyperpigmentation:1
+acute phytophotodermatitis:3
+acute radiation dermatitis:2
+acute urticaria:1
+acute-eczema:1
+adalimumab pen:2
+adenoid cystic carcinoma pathology:2
+adenosquamous carcinoma pathology:2
+adult acne:2
+advanced basal cell carcinoma:5
+advanced bcc:1
+adverse events (cobrim study):1
+after laser eyelid surgery:1
+aggressive digital papillary adenocarcinoma pathology:6
+agminated naevus:1
+algal bloomakasio by noctiluca in nagasaki:1
+alginate dressings:1
+allergic contact dermatitis to rubber:3
+allergic patch test due to acrylate:1
+allergy to dimethyl fumarate: sofa dermatitis:1
+alopecia areata :1
+alopecia areata in a patient on antitnf:1
+alopecia areata nail pitting:1
+alopecia areata nail:1
+alopecia areata nails:2
+alopecia areata:35
+alopecia due to vemurafenib:1
+alopecia from drugs:3
+alopecia mucinosa:6
+alpha-1-antitrypsin panniculitis  pathology:3
+amalgam tattoo:2
+amelanotic melanoma dermoscopy:1
+amelanotic melanoma*:1
+amelanotic melanoma: dermoscopy:1
+amelanotic nail melanoma:1
+amelanotic nodular melanoma :1
+amelanotic nodular melanoma:2
+amelanotic superficial spreading melanoma in situ dermoscopy:1
+amelanotic superficial spreading melanoma in situ:1
+amputation stump dermatoses:2
+amsler grid:1
+amyloidosis cutis dyschromica:3
+amyloidosis of eyelid:1
+anagen effluvium due to cranial irradiation:3
+anagen effluvium: alopecia areata:2
+anagen effluvium: fungal infection (kerion):3
+anagen effluvium: hair pull:2
+anagen effluvium: loss of eyebrows from chemotherapy:1
+anagen effluvium: loss of eyebrows in alopecia areata:1
+anagen effluvium: loss of eyelashes in alopecia areata:1
+anagen effluvium: lupus erythematosus:1
+anagen effluvium: regrowth after chemotherapy  :1
+anagen effluvium: regrowth after chemotherapy with curly hair:1
+anagen effluvium: regrowth after chemotherapy:1
+anagen effluvium:3
+anagen hair loss:1
+anagen hair:1
+anal cancer:1
+anal intraepithelial neoplasia. ain:1
+anetoderma:3
+aneurysmal dermatofibroma pathology:2
+angelman syndrome genetics:1
+angelwing deformity:1
+angina bullosa haemorrhagica:1
+angioedema:8
+angiofibroma pathology:3
+angiofibromas in tuberous sclerosis:39
+angiokeratoma 15:1
+angiokeratoma 16:1
+angiokeratoma 17:1
+angiokeratoma 18:1
+angiokeratoma 19:1
+angiokeratoma 20:1
+angiokeratoma 21:1
+angiokeratoma 55:1
+angiokeratoma 56:1
+angiokeratoma circumscriptum:1
+angiokeratoma of fordyce on scrotum:9
+angiokeratoma of fordyce on vulva:10
+angiokeratoma:8
+angiokeratomas in fabry disease:1
+angiokeratomas in suspected fabry disease:2
+angiokeratomas:3
+angioleiomyoma histology:3
+angioleiomyoma sma stain:1
+angiolipoma pathology:2
+angiolymphoid hyperplasia with eosinophils pathology:3
+angioma serpiginosum:3
+angiomyofibroblastoma  pathology:2
+angiosarcoma:3
+angular cheilitis:23
+anhidrotic ectodermal dysplasia:1
+annular elastolytic giant cell granuloma pathology:3
+annular erythema:3
+anogenital wart:3
+antiseptic:3
+antisynthetase nailfold capillaries:1
+antisynthetase syndrome nailfold capillaries:1
+antisynthetase syndrome:2
+apec:3
+aphthous ulceration:3
+aplasia cutis:2
+apocrine hidrocystoma pathology:3
+apocrine mixed tumour (apocrine chondroid syringoma)  pathology:3
+applying colour in a salon:1
+applying liquid for patch testing:1
+applying trichloracetic acid for tca cross procedures:1
+aquagenic wrinkling of the palms:2
+arch fingerprint:1
+arnica:3
+arsenical keratoses:1
+arsenical pigmentation:1
+arsenical skin cancer:1
+artichoke:1
+ash leaf macule in tuberous sclerosis:1
+ash leaf marks in tuberous sclerosis:6
+asparagus:2
+aspergillosis pathology gms stain:1
+aspergillosis pathology:5
+aspergillus gms stain:1
+aspergillus infection:1
+aspergillus pas stain:1
+aspergillus skin lesion:1
+athlete foot:6
+atopic cheilitis:2
+atopic dermatitis :1
+atopic dermatitis of neck:1
+atopic dermatitis of scalp:3
+atopic dermatitis:71
+atopic eczema:15
+atopic excoriation 0:1
+atopic hand dermatitis:1
+atopic irritant hand dermatitis:1
+atopic oozy 1:1
+atopic swollen 2:1
+atopic swollen 3:1
+atopic-ecz-ear:1
+atrophic surgical scar:1
+atrophie blanche:5
+atrophoderma of pierini  and pasini:2
+atrophoderma of pierini and pasini:1
+atrophoderma vermiculata:1
+atypical dermatofibroma pathology:2
+atypical erythema multiforme due to mycoplasma:2
+atypical fibroxanthoma:3
+atypical mycobacteria:1
+atypical naevi :34
+atypical naevi:1
+atypical naevus with depigmentation:1
+atypical naevus:6
+auricle pseudocyst pathology:3
+auricular pseudocyst:1
+autoeczematisation:3
+autoimmune progesterone dermatitis:1
+axillary erythrasma:1
+axillary fox-fordyce disease:1
+axillary freckling in neurofibromatosis:1
+baboon syndrome. symmetrical drug related intertriginous and flexural exanthema. sdrife:2
+baby with madarosis due to alopecia areata:1
+bacillary angiomatosis:3
+bacterial culture from forearm:2
+bacterial skin swab:1
+balanitis:6
+bamboo caterpillars, which caused a rash on a gardener:2
+basal and squamous cell carcinoma of vulva:1
+basal cell cancer:1
+basal cell carcinoma affecting the arms and legs:23
+basal cell carcinoma affecting the ear:6
+basal cell carcinoma affecting the eyelid :9
+basal cell carcinoma affecting the face:78
+basal cell carcinoma affecting the nose:26
+basal cell carcinoma affecting the trunk:41
+basal cell carcinoma in skin of colour:3
+basal cell carcinoma of medial canthus:1
+basal cell carcinoma pathology:12
+basal cell carcinoma recurrent after curettage and electrosurgery:1
+basal cell carcinoma recurrent after imiquimod:1
+basal cell carcinoma recurrent after pdt:1
+basal cell carcinoma recurrent after topical fluorouracil:1
+basal cell carcinoma:3
+basal cell carcinoma:8
+basal cell naevus syndrome:3
+basal cell skin cancer:1
+basaloid squamous cell carcinoma pathology:2
+baseline series of patch test allergens:4
+basisquamous  cell carcinoma:2
+bcc cleared:1
+bcc-illdefined:1
+bcc-ulcerated:1
+bcc:1
+bcc:1
+beaded hair or monilethrix:2
+beau 02:1
+beau line:1
+beau lines:1
+becker naevus:4
+beckers naevus:2
+bed bug bite:1
+bed bug bites:2
+bedsore:3
+bee sting reaction:4
+bee sting:2
+bee venom reaction from immunotherapy:1
+before laser eyelid surgery:1
+belly button piercings:1
+benign hereditary telangiectasia:9
+benzocaine allergy:1
+bifurcation fingerprint:1
+biopsy form:1
+biopsy punch used for grafting in vitiligo:1
+biopsy punch:1
+birt hogg dube 06:1
+birt-hogg-dubé syndrome:1
+bitten nail:1
+black dot tinea capitis:3
+black hairy tongue:8
+black henna reaction leaving hypopigmentation:1
+black henna reaction leaving pigmentation:1
+black henna reaction:4
+black nails with pseudomonas infection:1
+blackwood:2
+blaschko's lines:2
+blastomycosis-like pyoderma pathology:6
+bleach for bleach bath:4
+bleeding disorder 09:1
+bleeding skin cancer:1
+blepharitis associated with atopic dermatitis:1
+blepharitis associated with psoriasis:1
+blepharitis associated with seborrhoeic dermatitis:1
+blepharitis due to contact allergy:1
+blepharitis:2
+blisters on foot, in hand foot and mouth disease:1
+bloodroot paste:1
+blue discolouration of nose piercing:1
+blue gree algae bloom lake erie:1
+blue naevus:7
+blue nails due to minocycline:1
+blue rubber bleb naevus:3
+blue-coloured cherry angioma:1
+blueberry muffin syndrome:3
+body area pasi scoring:1
+body louse:1
+body site distribution of microbiota:1
+boil in axilla:1
+boil:7
+borderline lepromatous leprosy with type 2 reaction :1
+borderline multiple patch tests in a dentist:1
+borderline tuberculoid leprosy with type 1 reaction:2
+borderline tuberculoid leprosy:2
+botox® injections:9
+bovine collagen test granuloma:1
+bowen disease of nail:2
+bowenoid papulosis:3
+brachioradial pruritus:2
+branchial cleft cyst pathology:3
+bridge fingerprint:1
+broken-off hair with trichorrhexis nodosa:1
+bronchogenic cyst pathology:4
+bruise from collagen injection:1
+bruises due to haemophilia:1
+bruising at site of heparin injections:1
+bruising due to topical steroids:1
+brunsting-perry cicatricial pemphigoid pathology:6
+bullae due to mycoplasma:2
+bullous insect bites:1
+bullous pemphigoid :29
+bullous pemphigoid indirect immunofluorescence:1
+bullous pemphigoid pathology:4
+bullous pemphigoid:21
+bullous systemic le:1
+burton wood lamp:1
+cafe au lait macule of neurofibromatosis:1
+cafe au lait macule:3
+calcifying aponeurotic fibroma pathology:2
+calcinosis cutis histology:3
+calcinosis cutis in systemic sclerosis:1
+calcinosis cutis von kossa silver stain:1
+calcinosis cutis:3
+calcinosis:2
+calciphylaxis  pathology:3
+calciphylaxis:12
+callus:3
+calm 6 big copy2:1
+calm 8 big3:1
+camouflage of psoriasis:1
+candida albicans affecting the nail:1
+candida albicans affecting the nails:9
+candida albicans folliculitis:1
+candida albicans of moustache:2
+candida infection:5
+candida interdigital intertrigo in hairdresser:1
+candida intertrigo:15
+candida nail infection:1
+candida stomatitis:1
+candida vulvovaginitis:12
+candidal nail infection:1
+candidal vulvovaginitis:6
+candidiasis:3
+cantharidine:2
+capillaritis:4
+capillaritis:5
+capillary vascular malformation:1
+car mechanic:3
+carbuncle within tiger tattoo:1
+carbuncle:2
+carcinoma cuniculatum:1
+carcinoma erysipeloides :6
+carcinoma erysipeloides:4
+carcinosarcoma pathology:2
+carotenaemia from antiepileptic drug:1
+carotenaemia:2
+cashew:1
+ccca:2
+ccmn figure 1:1
+ccmn figure 2:1
+ccmn figure 3:1
+cd20+ in merkel cell carcinoma pathology:1
+cd31 positive in epithelioid angiosarcoma:1
+cd34 immunohistochemistry of dermatofibroma pathology:1
+cedar:3
+celery:1
+cellular blue naevus pathology:1
+cellular dermatofibroma pathology:2
+cellular naevus:1
+cellulitis and lymphoedema:1
+cellulitis and venous insufficiency:1
+cellulitis around venous ulcer:1
+cellulitis in cracked heel:1
+cellulitis of the left leg:1
+cellulitis:5
+chalazion:1
+chamomile:2
+chancroid:3
+chemical burns:1
+chemicals in a hairdressing salon:1
+chemotherapy-induced leukonychia :1
+chemotherapy-induced leukonychia:1
+cherry angioma:5
+cherry angiomas:3
+chest dermatitis due to nail enamel allergy :1
+chestnut:2
+chickenpox scars:1
+chickenpox:34
+chilblain lupus:3
+chilblains:2
+childhood bullous pemphigoid:4
+childhood melanoma fish pathology:1
+childhood melanoma pathology:5
+chironex fleckeri :1
+chironex fleckeri stings:3
+chives:1
+chloasma:3
+chloracne:2
+cholesterol emboli pathology:5
+cholesterol emboli:4
+cholinergic urticaria:4
+chondrodermatitis nodularis helicis pathology:3
+chondrodermatitis:3
+choroidal melanoma:4
+chromoblastomycosis pathology:6
+chromoblastomycosis:1
+chromoblastomycosis:2
+chronic actinic dermatitis:6
+chronic dermatitis:2
+chronic discoid lupus erythematosus :13
+chronic discoid lupus erythematosus on lips:1
+chronic discoid lupus erythematosus. sle:1
+chronic discoid lupus erythematosus:12
+chronic eczema pathology:7
+chronic hand dermatitis:4
+chronic lupus profundus:1
+chronic paronychia and hand dermatitis:1
+chronic paronychia:2
+chronic plaque psoriasis :19
+chronic plaque psoriasis of elbow:2
+chronic plaque psoriasis:4
+chronic plaques of psoriasis:3
+chronic radiation dermatitis:3
+chronic renal insufficiency :1
+chronic superficial scaly dermatitis:1
+chronic tumid lupus erythematosus:1
+chronic ulcer:4
+chrysanthemum allergy:2
+cicatricial pemphigoid:6
+circumscribed juvenile-onset pityriasis rubra pilaris:3
+circumscribed palmar hypokeratosis:6
+ck7+ in pagetoid infiltration of epidermis by breast cancer:1
+classic spitz naevus:1
+clear cell acanthoma dermoscopy:1
+clear cell acanthoma:5
+clear cell dermatofibroma pathology:1
+clear cell squamous cell carcinoma pathology:2
+cliniporator™ electrode:3
+cliniporator™:1
+cloracne:1
+close up of follicular atopic dermatitis:1
+closed comedones:3
+clubbing in a smoker:1
+clubbing of nail:1
+clubbing of the nails:1
+clubbing:3
+cn-antehelix:1
+cnh-protector:1
+cnh-ulcerated:1
+cnh2:1
+coaltar:3
+coccidioidomycosis  pathology:3
+cockade naevus:4
+coining:2
+cold urticaria ice cube test:3
+cold urticaria provoked by ice cube:1
+cold urticaria:3
+collagen allergy:1
+collagen test reaction:1
+collodion baby:2
+colloid milia:1
+colloid milium pathology:6
+colloidal oatmeal:3
+combined naevus pathology:1
+combined naevus:1
+comedo naevus :1
+comedo naevus:2
+comedo-like openings: dermoscopy of seborrhoeic keratosis:1
+comedonal acne:4
+comedonal cyst pathology:3
+comedonal-acne:1
+comedones in hidradenitis suppurativa:9
+comedones:1
+common blue naevus pathology:2
+common naevus or mole:1
+compositae allergy: eyelid dermatitis:1
+compositae allergy: facial dermatitis:1
+compositae allergy: hand dermatitis:1
+compositae allergy: positive patch tests:2
+compressing a venous lake:1
+compression hose:3
+compulsive skin picking:4
+computer mouse dermatitis:3
+condyloma acuminatum  pathology:2
+condyloma lata of umbilicus:2
+conenctive tissue naevus in buschke ollendorf syndrome:1
+confluent and reticulated papillomatosis:3
+confocal microscope:2
+congen-melanocytic-naevus:1
+congenital hypertrichosis terminalis:1
+congenital hypothyroidism:1
+congenital naevus pathology:4
+congenital naevus:6
+congenital naevus:8
+conjunctivitis  pathology:5
+connective tissue naevus:2
+connective tissue naevus:3
+contact allergic dermatitis of the arms and legs:32
+contact allergic dermatitis of the hands :7
+contact allergic dermatitis of the hands:12
+contact allergic dermatitis of the torso :22
+contact allergy to beeswax in moisturiser:1
+contact allergy to fragrance in aftershave:1
+contact allergy to hair dye:1
+contact allergy to para-tertiary butylphenol formaldehyde resin:2
+contact allergy:1
+contact dermatitis due to clothing dye allergy:1
+contact dermatitis due to methylisothiazolinone:3
+contact dermatitis due to neoprene and diethylthiourea allergy:3
+contact dermatitis to antiseptic used during piercing:1
+contact dermatitis to ethylenediamine:3
+contact dermatitis with fissuring due to garlic allergy:1
+contact dermatitis: allergy to gloves:1
+contact dermatitis:6
+contact eczema allergic:1
+contact eczema irritant:1
+contact irritant dermatitis due to urine. napkin dermatitis in adult.:1
+contact stomatitis:1
+contact urticaria testing:3
+contact urticaria:3
+coral-pink fluorescence in erythrasma using wood lamp:1
+corn (clavus):11
+corn:4
+costello syndrome:1
+cow parsnip:2
+cowden disease:3
+cracked heels:2
+cradle cap:5
+cream applied to severe adverse drug reaction:1
+cream formulation:1
+crest syndrome :1
+crest:1
+crohn cheilitis:1
+crusted scabies  pathology:2
+crusted scabies burrows 10:1
+crusted scabies with scaling under nails:1
+crusted scabies:2
+crusted skin cancer:1
+cryoglobulinaemia:9
+cryopyrin-associated periodic syndrome rash:2
+cryotherapy eschar:1
+cryotherapy infected blister:1
+cryotherapy:4
+cryotherapy:8
+cryptococcosis  pathology:4
+cupping:4
+curettage:2
+cut_horn_ear:1
+cutaneous adverse reaction to anticonvulsant, erythema multiforme target lesions:1
+cutaneous adverse reaction to anticonvulsant, gingival hyperplasia:1
+cutaneous adverse reaction to anticonvulsant, morbilliform:1
+cutaneous adverse reaction to anticonvulsant, purpura:1
+cutaneous adverse reaction to anticonvulsant, toxic epidermal necrolysis (ten):1
+cutaneous adverse reaction to anticonvulsant, urticaria:1
+cutaneous aspergillosis:2
+cutaneous b-cell lymphoma:3
+cutaneous ciliated cyst   pathology:4
+cutaneous endometriosis:1
+cutaneous horn:22
+cutaneous larva migrans:3
+cutaneous lupus erythematosus :60
+cutaneous lymphoma:1
+cutaneous marginal zone lymphoma:3
+cutaneous metastasis:6
+cutaneous miliary tuberculosis:1
+cutaneous myxoma:2
+cutaneous nodules  due to crohn disease, new zealand medical journal. 2006:2
+cutaneous nodules due to crohn disease, new zealand medical journal. 2006:1
+cutaneous plasmacytoma:1
+cutaneous polyarteritis nodosa:3
+cutaneous sarcoidosis:1
+cutaneous small–medium pleomorphic t-cell lymphoma pathology:7
+cutaneous squamous cell carcinoma:1
+cutaneous t cell lymphoma:1
+cutaneous tuberculosis   pathology:4
+cutaneous tuberculosis: bazin disease:5
+cutaneous tuberculosis: lupus vulgaris with squamous cell carcinoma:1
+cutaneous tuberculosis: lupus vulgaris:4
+cutaneous tuberculosis: tuberculide:1
+cutaneous tuberculosis:4
+cutaneous vasculitis:7
+cutis marmorata telangiectatica congenita:3
+cutis marmorata:3
+cutis verticis gyrata:2
+cutting 4–6 micron thick slices of skin specimen:1
+cyanea capillata stings:1
+cyanosis:1
+cylindroma  pathology:2
+cylindroma pathology:2
+cyst:44
+cystic hidradenoma:1
+cytomegalovirus infection pathology:3
+cytophagic histiocytic panniculitis:3
+darier disease pathology:5
+darier disease:6
+darier nail disease:1
+dariers disease:3
+dark naevus:1
+deep fibrous histiocytoma pathology:1
+degos disease:3
+delusions of parasitosis:1
+demodicosis pathology:2
+dental plaque:1
+dental sinus:2
+dermal contact dermatitis:3
+dermal-naevus2:1
+dermal-naevus:1
+dermatitis artefacta:2
+dermatitis artefacta:4
+dermatitis as reaction to artificial nails:1
+dermatitis following influenza vaccine:2
+dermatitis herpetiformis pathology:4
+dermatitis herpetiformis:9
+dermatitis induced by  immunoglobulin injections:1
+dermatitis neglecta:1
+dermatitis under a nickel-containing ring:1
+dermatitis:2
+dermatofibroma pathology:3
+dermatofibroma pinch sign:1
+dermatofibroma:23
+dermatofibrosarcoma protuberans pathology: cd34 stain:1
+dermatofibrosarcoma protuberans pathology:6
+dermatofibrosarcoma protuberans:4
+dermatomyofibroma pathology:3
+dermatomyositis - gottron papules:1
+dermatomyositis eyelid oedema:1
+dermatomyositis:9
+dermatophytide:6
+dermatoscopic examination of hair shaft:1
+dermatoscopic examination of possible burrows:1
+dermatoscopy of metastatic melanoma 101:1
+dermatosis papulosa nigra:7
+dermographic rticaria:1
+dermographism:20
+dermoid cyst pathology:3
+dermoid cyst:1
+dermoid cyst:3
+dermoscopy of angiokeratoma of fordyce on vulva:13
+dermoscopy of intense pulsed light to freckle:1
+dermoscopy of ochronosis due to hydroquinone:1
+dermoscopy of scabies burrow:2
+dermoscopy of subungual melanoma:1
+dermoscopy: acral naevus:1
+dermoscopy: blue naevus:1
+dermoscopy: facial naevus:1
+dermoscopy: globular naevus:1
+dermoscopy: meyerson naevus:1
+dermoscopy: reticular naevus:1
+dermoscopy: starburst naevus:1
+dermoscopy: unclassifiable naevus:1
+dermoscopy:4
+dermovate cream:2
+desmoplastic melanoma 1:1
+desmoplastic melanoma:2
+desmoplastic squamous cell carcinoma pathology:3
+desmoplastic trichoepithelioma pathology:5
+desmoplastic trichoepithelioma:1
+diabetic bullae:2
+diabetic foot ulcer:3
+diabetic ulcer:4
+diathermy tips:1
+diathermy:1
+dic:1
+diffuse cutaneous mastocytosis:6
+diffuse lentiginosis:1
+diffuse melanosis cutis:2
+diffuse palmoplantar keratoderma:6
+diffuse plane xanthomas:3
+digital ischaemia in buerger disease:1
+digital ischaemia in systemic sclerosis:1
+digital ischaemia in vasculitis:1
+digital myxoid cyst:13
+digital myxoid pseudocyst pathology:3
+dilated pore of winer pathology:2
+dimethyl fumarate sachet:1
+discoid dermatitis:1
+discoid eczema :1
+discoid eczema:28
+discoid le:2
+discoid lupus erythematosus comedones:1
+discoid lupus erythematosus of scalp:3
+discoid lupus erythematosus, swinfen charitable trust:1
+discoid lupus erythematosus:7
+discoid lupus:1
+discoid-lupus:1
+discoloured urine on rifampicin:1
+dissecting cellulitis:3
+dissecting follicultis:1
+disseminated secondary eczema:2
+distorted pose:1
+dithranol:3
+dog bite:2
+dot fingerprint:1
+double loop fingerprint:1
+double-bifurcation fingerprint:1
+dowling-degos disease pathology:3
+dowling-degos disease:4
+drug eruption:6
+drug induced vitiligo:3
+drug reaction:4
+drug-induced alopecia:1
+drug-induced cutaneous lupus erythematosus:3
+drug-induced lupus:3
+drug-induced onycholysis:3
+drug-induced pemphigus:1
+drug-induced photosensitivity:2
+drug-induced subacute lupus erythematosus:3
+dry gangrene due to ischaemia:3
+dry skin due to vemurafenib:1
+dry skin:13
+dryness due to topical retinoid:1
+dsap close-up:1
+dsap:5
+dust mite:1
+dyspigmentation due to toxic epidermal necrolysis:1
+dysplastic naevus:1
+ear piercings:1
+ear-adornment:1
+earlobe-keloid:1
+ebv rash :2
+ecchymoses associated with skin atrophy:1
+eccrine carcinoma pathology:4
+eccrine hidrocystoma pathology:2
+eccrine mixed tumour pathology:3
+eccrine papillary adenoma pathology:3
+eccrine porocarcinoma:2
+eccrine poroma dermoscopy:1
+eccrine poroma:5
+eccrine spiradenocarcinoma pathology:3
+eccrine spiradenoma  pathology:2
+eccrine spiradenoma pathology:2
+eclipse naevus:1
+ecthyma:1
+ecthyma:10
+eczema craquele:1
+eczema craquelé:6
+eczema elbows:1
+eczema herpeticum:21
+eczema:4
+eczematous cheilitis:1
+eczematous infected plaque in hodgkin lymphoma:2
+effect of 17 days of fluorouracil cream to actinic keratoses:1
+effect of bimatoprost solution on eyelashes:3
+effect of escharotic agents:3
+effects of 3 applilcations of ingenol mebutate gel for facial actinic keratoses:1
+effects of fluorouracil cream applied to actinic keratoses:1
+effects of ingenol mebutate gel on facial actinic keratoses:14
+efficacy results of cobrim study:1
+ehlers danlos syndrome:3
+elastosis perforans serpiginosa pathology:6
+elastosis perforans serpiginosa:1
+elastosis perforans serpiginosa:6
+elastosis:1
+electrocautery:1
+electrosurgery to comedones:1
+electrosurgery:1
+elephantiasis nostras verruciformis:1
+elephantine psoriasis:1
+ema+ in clear cell acanthoma:1
+emulsifying ointmnet:1
+enclosure fingerprint:1
+endocrine mucin–producing sweat gland carcinoma pathology:7
+enlarged pores:1
+enteroviral infection: blisters on hand:1
+eosinophilic  fasciitis pathology:3
+eosinophilic dermatosis of haematological malignancy:4
+eosinophilic fasciitis:1
+eosinophilic folliculitis:4
+eosinophilic granulomatosis 4:1
+eosinophilic granulomatosis with polyangiitis:2
+eosinophilic pustular folliculitis pathology:5
+eosinophilic ulcer of the lip:1
+epidermal cyst:1
+epidermal naevus pathology:6
+epidermal naevus syndrome - skeletal defects:1
+epidermal naevus syndrome:2
+epidermal naevus:6
+epidermal-cyst2:1
+epidermal-cyst:1
+epidermal-sebaceous-naevus:1
+epidermodysplasia verruciformis  pathology:1
+epidermoid cyst pathology:7
+epidermolysis bullosa acquisita indirect immunofluorescence:1
+epidermolysis bullosa acquisita:6
+epidermolysis bullosa:9
+epidermolytic ichthyosis:2
+episcleritis due to crohn disease, new zealand medical journal. 2006:1
+epithelioid blue naevus pathology:2
+epithelioid dermatofibroma pathology:2
+epithelioid histiocytoma pathology:4
+erosio interdigitalis blastomycetica:1
+erosions from fluorouracil cream:1
+erosive lichen planus:2
+erosive oral lichen planus:6
+erosive papillomatosis of the nipple pathology:3
+erosive pustular dermatosis:6
+eruptive lichenoid keratoses:1
+eruptive vellus hair cysts:2
+eruptive xanthoma:3
+eruptive xanthomas:3
+erysipelas  pathology:2
+erysipelas of leg:1
+erysipelas:5
+erysipeloid:3
+erythema ab igne:6
+erythema annulare centrifugum:3
+erythema chronicum migrans:23
+erythema dyschromicum perstans:4
+erythema elevatum diutinum  pathology:5
+erythema elevatum diutinum:3
+erythema induratum:1
+erythema infectiosum:9
+erythema marginatum:3
+erythema multiforme of eye:1
+erythema multiforme of lips:2
+erythema multiforme with gentian violet:1
+erythema multiforme:10
+erythema nodosum  pathology:4
+erythema nodosum leprosum:2
+erythema nodosum:14
+erythrasma  pathology:1
+erythrasma fluorescence:2
+erythrasma:14
+erythroderma:28
+erythrodermic psoriasis 2 weeks after first dose of ustekinumab:1
+erythrodermic psoriasis before ustekinumab:1
+erythrodermic psoriasis in child:1
+erythrodermic psoriasis:6
+erythrokeratoderma:6
+erythronychia:1
+erythropoietic protoporphyria pathology:4
+erythropoietic protoporphyria:8
+eschar and spots mediterranean spotted fever:1
+essential telangiectasia:5
+exanthem with islands of sparing:1
+exanthem:4
+excessive inflammatory reactions to fluorouracil cream:3
+excimer laser 308nm:3
+excision wound marked out for advancement flap repair:1
+excision wound:2
+excoriations and bruises:2
+excoriations due to compulsive skin picking:1
+excoriations in hodgkin lymphoma:1
+excoriations in scabies:2
+excoriations:3
+exercise-induced vasculitis:4
+exfoliative cheilitis:2
+exfoliative keratolysis:4
+extragenital lichen sclerosus:15
+extramammary paget disease:4
+eye involvement in erythema multiforme:1
+eye involvement in stevens johnson syndrome:1
+eyebrow seborrhoeic dermatitis:1
+eyebrow tattoo:1
+eyelid atopic eczema:1
+eyelid atypical fibroxanthoma:1
+eyelid basal cell carcinoma:1
+eyelid chalazion:1
+eyelid contact dermatitis:11
+eyelid dermal naevus:1
+eyelid dermatitis due to nail enamel allergy:1
+eyelid discoid lupus:1
+eyelid herpes simplex:1
+eyelid herpes zoster ophthalmicus:1
+eyelid hordeolum:2
+eyelid impetigo:1
+eyelid infected eczema:1
+eyelid keratoacanthoma:1
+eyelid kerion (tinea):1
+eyelid melanoma:6
+eyelid milia:1
+eyelid molluscum contagiosum:1
+eyelid psoriasis:2
+eyelid seborrhoeic keratosis:1
+eyelid skin tags:1
+eyelid subdoriferous cyst:1
+eyelid syringomas:1
+eyelid tinea:2
+eyelid viral wart:1
+facial acne:73
+facial dermatitis due to nail enamel allergy :1
+facial dermatitis:1
+facial hirsutism:3
+facial lines:2
+facial pemphigus:1
+facial psoriasis in child:1
+facial psoriasis:23
+facial redness:1
+factor 13a immunohistochemistry of dermatofibroma pathology:1
+familial telangiectasia:1
+farmyard pox   pathology:3
+favre racouchot syndrome:2
+favre-racouchot syndrome:5
+female balding:2
+female pattern alopecia:1
+female pattern hair loss:5
+ferriman-gallwey visual scale for assessing hirsutism:1
+feverfew:2
+fibroblastic connective tissue naevus pathology:4
+fibrocollagenous dermatofibroma pathology:2
+fibrofolliculomas in birt hogg dube syndrome:9
+fibrofolliculomas:3
+fibroma s:1
+fibrosarcoma pathology:4
+fibrosing alopecia:3
+fibrous hamartoma of infancy pathology:3
+fibrous papule of the nose:3
+fibrous papule:1
+fifth disease:3
+fig dermatitis:3
+fig:3
+figure 1 blistering:1
+figure 1 fever+rash2:1
+figure 10 blistering:1
+figure 10 fever+rash:1
+figure 11 blistering:1
+figure 11 fever+rash2:1
+figure 12 blistering:1
+figure 12 fever+rash:1
+figure 13 blistering:1
+figure 13 fever+rash2:1
+figure 136 trunk:1
+figure 14 blistering:1
+figure 14 fever+rash2:1
+figure 15 blistering:1
+figure 15 fever+rash:1
+figure 16 blistering:1
+figure 16 fever+rash2:1
+figure 17 blistering:1
+figure 17 fever+rash:1
+figure 18 blistering3:1
+figure 18 blistering:1
+figure 18 fever+rash2:1
+figure 19 blistering:1
+figure 19 fever+rash:1
+figure 2 blistering:1
+figure 2 fever+rash:1
+figure 20 blistering:1
+figure 20 fever+rash2:1
+figure 21 blistering:1
+figure 21 fever+rash:1
+figure 22 blistering:1
+figure 22 fever+rash2:1
+figure 23 blistering:1
+figure 23 fever+rash:1
+figure 24 blistering:1
+figure 24 fever+rash2:1
+figure 25 blistering:1
+figure 25 fever+rash:1
+figure 26 blistering:1
+figure 26 fever+rash2:1
+figure 27 blistering:1
+figure 27 fever+rash:1
+figure 28 blistering:1
+figure 28 fever+rash2:1
+figure 29 blistering:1
+figure 29 fever+rash2:1
+figure 3 blistering2:1
+figure 3 fever+rash2:1
+figure 30 blistering:1
+figure 30 fever+rash:1
+figure 31 blistering:1
+figure 31 fever+rash:1
+figure 32 blistering:1
+figure 32 fever+rash2:1
+figure 33 blistering:1
+figure 33 fever+rash2:1
+figure 34 blistering:1
+figure 34 fever+rash2:1
+figure 35 fever+rash:1
+figure 4 blistering:1
+figure 4 fever+rash:1
+figure 5 blistering:1
+figure 5 fever+rash:1
+figure 52 face:1
+figure 6 blistering:1
+figure 6 fever+rash2:1
+figure 7 blistering:1
+figure 7 fever+rash2:1
+figure 8 blistering2:1
+figure 8 blistering:1
+figure 8 fever+rash:1
+figure 9 blistering:1
+figure 9 fever+rash2:1
+finger clubbing in a smoker:1
+fingertip unit:1
+finkelstein disease or acute haemorrhagic oedema of infancy:8
+fish for 9p21 – spitz naevus:1
+fishtank granuloma:5
+fissured tongue:2
+five slides are made for direct immune fluorescence:1
+fixed drug eruption from nonsteroidal anti-inflammatory drug:1
+fixed drug eruption:6
+flagellate erythema:3
+flagellate pigmentation due to drug eruption:1
+flash compensation settings:1
+flash vs no flash:1
+flea bites:3
+flea:1
+fleabites:1
+flegel disease:3
+flexural eczema:1
+flexural psoriasis:27
+fluorescence in tinea capitis using wood lamp:1
+fluoride burns:2
+flushing:7
+foam dressings:1
+focal dermal hypoplasia (goltz syndrome):4
+focal mucinosis figure1:1
+focal mucinosis figure2:1
+focal mucinosis figure3:1
+focal mucinosis figure4:1
+focal mucinosis figure5:1
+focal palmoplantar keratoderma:3
+follicular keratosis:1
+follicular mucinosis:1
+follicular pattern of atopic dermatitis:1
+follicular squamous cell carcinoma pathology:3
+folliculitis barbae:6
+folliculitis decalvans:10
+folliculitis due to hair removal:3
+folliculitis due to vemurafenib:1
+folliculitis from steroid cream:1
+folliculitis in axilla:1
+folliculitis induced by sirolimus:3
+folliculitis keloidalis nuchae:3
+folliculitis keloidalis:3
+folliculitis:35
+folliculosebaceous cystic hamartoma histology:4
+food handlers:3
+foot dermatitis:1
+fordyce spots:3
+foreign body granuloma:1
+four-layer banding:6
+fox-fordyce disease:4
+fracture blister histology:1
+fracture blister:1
+fracture of humerus:1
+fragile skin:1
+freckle after cryotherapy:1
+freckle before cryotherapy:1
+freckles on hand before and after green laser light:1
+freckles:3
+friction blisters:6
+frizzy hair of unknown cause:2
+frosting after applying trichloracetic acid in tca cross procedure:1
+frozen specimen contained within frozen gel:1
+fungal beard infection:5
+fungal nail infection:2
+fusarium infection:2
+ganglion cyst :1
+ganglion cyst:2
+gardner syndrome:1
+garlic:1
+gastric carcinoid pathology:8
+gauze:1
+gel formulation:1
+generalised pustular psoriasis:1
+genital crohn disease: chronic oedema and ulceration:1
+genital crohn disease: ulceration, papules nodules and lymphoedema of labia minora:1
+genital crohn disease: ulcers in groins:1
+genital crohn disease:2
+genital psoriasis:32
+genital warts:28
+geographic tongue:6
+geranium:3
+gianotti-crosti syndrome:55
+giant cell fibroblastoma pathology:3
+giant cell tumour of tendon sheath  pathology:8
+giant cell tumour of tendon sheath:1
+giant comedo:1
+giant hogweed:1
+giant pilomatrixoma:1
+gingival enlargement:2
+gingivitis:3
+gingko:2
+ginkgo:2
+glandular cheilitis:1
+glass covers placed over slides:1
+globular naevus:1
+glomus tumour pathology cd31 stain:1
+glomus tumour pathology:4
+glomus tumour:1
+glomus tumour:3
+glomus tumour;  r baran:1
+goitre:2
+golfer's capillaritis:2
+gonococcaemia:3
+gout:1
+gouty tophi:7
+gouty tophus:1
+grade 1 rhinophyma:1
+grade 2 rhinophyma:1
+grade 3 rhinophyma:1
+graft versus host disease pathology :3
+grafted wound:1
+graham little syndrome. hairless axilla:1
+graham little syndrome. loss of hair of eyebrows:1
+graham little syndrome. scarring alopecia of anterior scalp:1
+gram stain of corynebacteria cultured from forearm skin:1
+gram-negative folliculitis:2
+granular c3 deposition on basement membrane zone:1
+granular cell tumour pathology:3
+granular cell tumour:1
+granular parakeratosis 01:1
+granular parakeratosis 02:1
+granular parakeratosis 03:1
+granular parakeratosis:9
+granuloma annulare :52
+granuloma annulare pathology:9
+granuloma annulare:15
+granuloma faciale:6
+granuloma inguinale:2
+granulomas in a patient with common variable immunodeficiency:2
+granulomas provoked by isotretinoin:1
+granulomatosis + polyangiitis:1
+granulomatous cheilitis due to crohn disease:1
+granulomatous cheilitis:3
+graves disease: exophthalmos:1
+gravitational dermatitis:1
+green nail due to pseudomonas infection with paronychia:1
+green nail due to pseudomonas infection:1
+grevillea dermatitis:1
+grevillea:2
+grover disease:21
+grovers disease:6
+grzybowski syndrome:6
+gum hypertrophy due to ciclosporin:1
+guttate hypomelanosis:4
+guttate psoriasis :30
+guttate psoriasis in child:1
+guttate psoriasis:7
+h&e stain of actinomycosis grains:1
+haemangioma after propranolol:4
+haemangioma before propranolol:4
+haemangioma resembling nodular melanoma:2
+haemangioma:8
+haemosiderotic dermatofibroma pathology:1
+hailey hailey disease  pathology:4
+hailey-hailey disease:3
+hair cycle:1
+hair dye reaction:2
+hair miniaturisation:1
+hair shedding :1
+hair shedding guide:1
+hair transplants:1
+half and half nail:1
+halo mole:9
+halo naevus dermoscopy:3
+halo naevus:6
+hand dermatitis and chronic paronychia:1
+hand dermatitis due to compositae allergy:1
+hand dermatitis due to contact allergy to thiuram in rubber gloves:1
+hand dermatitis due to rubber allergy:1
+hand dermatitis due to rubber glove allergy:1
+hand dermatitis in a farmer:1
+hand dermatitis in hairdresser:3
+hand dermatitis in patient on antitnf:1
+hand dermatitis:44
+hand dermatitis:6
+hand foot and mouth disease:21
+hand irritation from contact with caterpillars:1
+hand rub:3
+hand, foot and mouth disease pathology:3
+hand-foot syndrome due to chemotherapy:3
+hand-foot syndrome due to sorafenib:3
+hands and feet puva soaks:3
+hands burning after puva soaks:2
+hang nail:1
+head lice and dermatitis:1
+head lice eggs. nits. :1
+head lice:3
+head louse:2
+healed wound after skin graft:1
+healed wound:1
+heavily melanised naevus:1
+hendersonula infection:1
+henoch schonlein purpura:1
+henoch schönlein purpura:6
+heparin (enoxaparin) induced necrosis:3
+hereditary amyloid:1
+hereditary haemorrhagic telangiectasia:8
+herpangina:2
+herpes simplex :33
+herpes simplex labialis associated with erythema multiforme:1
+herpes simplex of penis:1
+herpes simplex paronychia:1
+herpes simplex:4
+herpes virus infection pathology:6
+herpes zoster:20
+herpes zoster:3
+herpetic stomatitis:1
+hetereochromia of irides:1
+hibernoma pathology:2
+hidradenitis nodule:1
+hidradenitis suppurativa comedones:1
+hidradenitis suppurativa of abdomen:1
+hidradenitis suppurativa of axilla:36
+hidradenitis suppurativa of breast:12
+hidradenitis suppurativa of buttocks:8
+hidradenitis suppurativa of groin:13
+hidradenitis suppurativa:4
+hidradenocarcinoma pathology:5
+hidradenoma papilliferum pathology:3
+hidrocystoma:2
+hidrocystoma:9
+hidrofibre dressing:1
+high-risk cutaneous squamous cell carcinoma:4
+hirsutism:9
+histiocytosis:1
+histology of amyloidosis cutis dyschromica. congo red:1
+histology of amyloidosis cutis dyschromica. h+e:1
+histology of amyloidosis cutis dyschromica. polarised congo red:1
+histology of cutaneous granuloma due to crohn disease, new zealand medical journal. 2006:1
+histopathology of scc in situ:1
+histoplasmosis  pathology:3
+holocarboxylase synthetase deficiency:3
+honey bee:2
+hook fingerprint:1
+hormonal hyperpigmentation. 5 days of oestrogen cream :1
+hormonal hyperpigmentation. linear nigra during pregnancy:1
+horse chestnut:1
+housewife hand dermatitis:1
+hs groin 137:1
+hs inflammatory 110:1
+htm:1
+hydroa vacciniforme pathology:4
+hydroa vacciniforme:6
+hydrocolloid dressings:1
+hydrogel dressing:1
+hypereosinophilic syndrome:3
+hyperhidrosis:4
+hyperkeratosis lenticularis perstans (flegel disease) pathology:3
+hypersensitivity vasculitis in granulomatosis with polyangiitis :1
+hypersensitivity vasculitis:3
+hypersensivity vasculitis:1
+hypertrichosis due to ciclosporin:2
+hypertrichosis:12
+hypertrophic scar:6
+hypertrophic surgical scar:1
+hypomelanosis of ito:1
+hypomelanosis:1
+hypopigmentation from laser hair removal:1
+hypopigmented pityriasis versicolor:1
+ice-pick acne scars:1
+ichthyosis vulgaris:1
+ichthyosis vulgaris:4
+ichthyosis:33
+ichthyosis:5
+idiopathic plantar hidradenitis:3
+igenz logo:1
+igg4-related disease: cutaneous inflammatory pseudotumour:2
+igg4-related skin disease pathology:7
+ilven:4
+image file format:1
+images of cafe-au-lait macules:15
+img 3252:1
+img 3253:1
+imiquimod to actinic keratosis:3
+imiquimod to bcc:2
+immune fluorescence eagent is dropped onto the slides and left for some time in the dark:1
+immune sentinels:1
+immunofluorescence staining of basement membrane by igg in bullous pemphigoid:1
+impetigo  pathology:3
+impetigo in axilla:1
+impetigo:22
+in situ squamous cell carcinoma:74
+inclusion epidermal cyst:1
+incontinentia pigmenti  :1
+incontinentia pigmenti :1
+incontinentia pigmenti:3
+indolent cutaneous cd8+ lymphoid proliferation pathology:6
+infantile acne:7
+infantile digital fibroma:3
+infantile digital fibromatosis pathology:4
+infantile haemangioma:1
+infantile oral thrush:1
+infantile papular acrodermatitis:6
+infantile proliferative haemangioma:1
+infantile seborrhoeic dermatitis:1
+infected burrows in crusted scabies:1
+infected dermatitis:4
+infected earring reaction:1
+infected hand dermatitis:2
+infected hand injury:1
+infected leech bites:1
+infected nummular atopic dermatitis:1
+infected pompholyx:1
+infected tinea pedis:1
+infected venous ulcer:1
+infected vesicular hand dermatitis:2
+infective panniculitis:1
+infiltrative squamous cell carcinoma pathology:1
+inflammatory lesion in hidradenitis suppurativa:8
+inflammatory linear verrucous epidermal naevus pathology:4
+inflammatory myofibroblastic tumour pathology:3
+inflammatory squamous cell carcinoma pathology:2
+infundibulofolliculitis:3
+ingrowing beard hair:1
+ingrown nail:1
+ingrown toenail:4
+ink spot lentigo dermoscopy:4
+ink spot lentigo:5
+insect bite:26
+insect bites:12
+intense pulsed light to freckle:1
+intense pulsed light:2
+intercellular space staining pattern (chicken-wire). pemphigus foliaceus:1
+interdigital burrows due to scabies:2
+interdigital candida infection:1
+interstitial granulomatous dermatitis:3
+intertrigo due to :1
+intertrigo due to candida infection:1
+intertrigo due to contact allergy to benzocaine:1
+intertrigo due to hailey-hailey disease:1
+intertrigo due to psoriasis:1
+intertrigo due to seborrhoeic dermatitis:1
+intertrigo:3
+intraepidermal carcinoma:1
+intralesional steroid injection for alopecia areata:1
+intralesional steroid injection:2
+intravascular b-cell lymphoma:3
+iodine:3
+iontopheresis:1
+iontophoresis for palmar hyperhidrosis:1
+iontophoresis for plantar hyperhidrosis:1
+iris melanoma:1
+irritant contact dermatitis around stoma appliance:1
+irritant contact dermatitis:3
+irritant contact hand dermatitis:2
+irritant dermatitis:6
+irritated seborrhoeic keratosis:1
+ischaemia:3
+island fingerprint:1
+iso options:1
+isolated limb perfusion:1
+isotretinoin cheilitis:1
+ivy:2
+ixodes tick:1
+jaundice:2
+jellyfish stings:2
+jessner lymphocytic infiltrate:6
+juvenile plantar dermatosis:16
+juvenile spring eruption:3
+juvenile xanthogranuloma:6
+ka:4
+ka_ear:1
+kanuka:2
+kaposi sarcoma pathology cd31 stain:1
+kaposi sarcoma pathology hhv-8 stain:1
+kaposi sarcoma pathology:6
+kaposi sarcoma:14
+kava ichthyosis:1
+keloid scar from ear piercing:1
+keloid scar:31
+keloid-ear:1
+keloid:1
+keloid:4
+keratoacanthoma pathology:3
+keratoacanthoma:26
+keratoderma due to vemurafenib:1
+keratoderma:3
+keratosis circumscripta:2
+keratosis lichenoides chronica figure 4:1
+keratosis lichenoides chronica figure 5:1
+keratosis lichenoides chronica figure 6:1
+keratosis pilaris :10
+keratosis pilaris:17
+kerion:13
+kissing naevus:2
+knuckle pads:3
+koebner phenomenon in psoriasis due to contact dermatitis to adhesive plaster:1
+koebner phenomenon in psoriasis due to sunburn:1
+koebnerised psoriasis following shingles:1
+koebnerised vitiligo:1
+koh of candida:1
+koh of m. canis:1
+koilonychia:2
+kyrle disease:3
+labial fusion:14
+labial melanotic macule :6
+labial melanotic macule pathology:2
+langerhans histiocytosis:1
+large plaque psoriasis:1
+laser hair removal:1
+lassical juvenile-onset pityriasis rubra pilaris:3
+latex examination gloves:1
+laugier-hunziker syndrome:2
+lavender:3
+leek:3
+leg ulcer:28
+leg ulcers:1
+leiomyoma:2
+leiomyomas:1
+leiomyosarcoma  pathology:5
+leishmaniasis   pathology:3
+leishmaniasis:9
+lemon				:1
+lemon:3
+lentigines:3
+lentiginous melanoma:3
+lentiginous naevus pathology:1
+lentigo maligna melanoma:13
+lentigo maligna:7
+lentigo simplex pathology:2
+lentigo simplex:6
+lentigo-benign:1
+lentigo:10
+leopard syndrome:3
+lepra type 2 reaction:3
+lepromatous leprosy:3
+leprosy  pathology:4
+leprosy:1
+lettuce:1
+leukaemia cutis:8
+leukocytoclastic vasculitis  pathology:4
+leukoderma due to protein kinase inhibitor:1
+levia targeted home phototherapy:1
+lichen amyloidosis:2
+lichen nitidus pathology:4
+lichen nitidus:3
+lichen planopilaris:4
+lichen planus :52
+lichen planus in blaschko distribution:2
+lichen planus of nail:3
+lichen planus of nails:1
+lichen planus of tongue plaque pattern:1
+lichen planus on wrists.:1
+lichen planus pathology:4
+lichen planus pigmentosus of face:1
+lichen planus pigmentosus of lower back:1
+lichen planus pigmentosus of lower lip:1
+lichen planus:24
+lichen sclerosus  pathology:2
+lichen sclerosus pathology:2
+lichen sclerosus:5
+lichen sclerosus:7
+lichen simplex due to meralgia paraesthetica:1
+lichen simplex:15
+lichen spinulosa:5
+lichen spinulosus:1
+lichen striatus pathology:3
+lichen striatus:9
+lichenified psoriasis:1
+lichenoid drug eruption:3
+lichenoid drug reaction :1
+lichenoid drug reaction:1
+lichenoid keratosis:7
+lichenoid reaction induced by immunoglobulin infusion:1
+lichenoid reaction to amalgam :1
+lily:2
+lime:1
+linea nigra:1
+linear iga bullous dermatosis:1
+linear iga:10
+linear igg deposition on basement membrane zone. bullous pemphigoid.:1
+linear lesions due to koebner phenomenon in lichen planus:3
+linear lichen planus:1
+linear porokeratosis:4
+linear psoriasis following the lines of blaschko:1
+linear telangiectasia:1
+lip dermatitis:1
+lip involvement in erythema multiforme:2
+lip ulcer:2
+lip ulceration due to granulomatosis with polyangiitis:1
+lipidised dermatofibroma pathology:1
+lipoatrophy and leukoderma due to intralesional steroid injection:1
+lipoatrophy due to intralesional steroid injection:2
+lipodermatosclerosis:7
+lipoedema and lymphoedema:1
+lipoedema and sun damage:1
+lipoedema2:1
+lipoedema:1
+lipoid proteinosis pathology:2
+lipoma pathology:6
+lipoma:4
+liposarcoma pathology:4
+liquid nitrogen used to freeze specimen and gel:1
+liquid paraffin + white soft paraffin:1
+livedo reticularis in polyarteritis nodosa:1
+livedo reticularis:3
+livedo:1
+livedoid vasculopathy:3
+liverwort:1
+localised pustular psoriasis induced by superpotent topical steroid:1
+localised pustular psoriasis:3
+localised pustulosis of foot :1
+localised urticarial reaction to ants:1
+locks in woman of african descent:3
+longitudinal nail ridging:1
+longitudinal splitting of nail:1
+loop  fingerprint:1
+loose anagen hair syndrome:5
+lotion formulation:1
+lucio phenomenon in leprosy:3
+lumbosacral dermal melanocytosis. mongolian spot:1
+lumbosacral dermal melanocytosis. mongolian spots.:1
+lupus miliaris disseminatus faciei pathology:4
+lupus panniculitis:3
+lupus pernio. cutaneous sarcoidosis:3
+lupus tumidus:1
+lupus vulgaris:4
+lupus-vulgaris:1
+lyme disease  pathology:4
+lymphangioma:3
+lymphangitis:1
+lymphatic malformation:2
+lymphatic papillomatosis:1
+lymphoepithelioma-like carcinoma pathology:3
+lymphomatoid granulomatosis:3
+lymphomatoid papulosis  pathology:5
+lymphomatoid papulosis pathology cd30+ stain:1
+lymphomatoid papulosis:2
+lymphoplasmacytic plaque: dermatoscopy:1
+lymphoplasmacytic plaque:2
+macro setting:1
+macrogloassia due to systemic amyloidosis:3
+macroglossia in amyloidosis:1
+macular amyloidosis:1
+maculopapular cutaneous mastocytosis. urticaria pigmentosa:2
+maculopapular mastocytosis urticaria pigmentosa:4
+madarosis due to alopecia areata:7
+madarosis due to atopic dermatitis:1
+madarosis due to atopic eczema:1
+madarosis due to discoid lupus erythematosus:1
+madarosis due to frontal fibrosing alopecia:5
+madarosis due to lichen planopilaris:3
+majocchi granuloma:3
+making up the reagents for direct immune fluorescence:1
+malassezia folliculitis pathology:3
+malassezia folliculitis:4
+malassezia microscopy:1
+male balding:1
+malignant atrophic papulosis:3
+malignant basomelanocytic tumour pathology:3
+malignant spitz tumour pathology:3
+mantoux test reaction:4
+manuka:2
+marjolin ulcer in thermal burn scar:1
+martorell ulcer:3
+mastocytoma after rubbing: darier sign:2
+mastocytoma: darier sign:1
+mastocytoma:3
+mastocytosis:2
+measles:29
+measles:3
+median canaliform dystrophy:1
+median canaliform nail dystrophy:1
+median raphe cyst pathology:3
+medianndystr:1
+melaenocytic-junctional:1
+melanocytic immunostain – hmb-45:2
+melanocytic immunostain – ki-67 (mib-1):1
+melanocytic matricoma pathology:6
+melanocytic naevus pathology: acral naevus:2
+melanocytic naevus pathology: balloon cell naevus:1
+melanocytic naevus pathology: compound naevus:2
+melanocytic naevus pathology: dermal naevus:1
+melanocytic naevus pathology: dysplastic naevus:1
+melanocytic naevus pathology: genital naevus:1
+melanocytic naevus pathology: halo naevus:2
+melanocytic naevus pathology: junctional naevus:1
+melanocytic naevus pathology: meyerson naevus:1
+melanocytic naevus pathology: naevus with fat and neural metaplasia:1
+melanocytic naevus pathology: superficial atypical melanocytic proliferation of unknown significance (sampus):2
+melanocytic naevus:1
+melanocytic-naevus:1
+melanoma in situ - melan-a staining:1
+melanoma in situ:7
+melanoma of nail unit:3
+melanoma of nail:1
+melanoma pathology: abnormal fish:1
+melanoma pathology: acral lentiginous melanoma:1
+melanoma pathology: bap-1 mutation associated melanoma:1
+melanoma pathology: breslow thickness of lentiginous melanoma:1
+melanoma pathology: lentiginous melanoma:3
+melanoma pathology: lentigo maligna melanoma:2
+melanoma pathology: negative bap-1 staining:1
+melanoma pathology: nodular melanoma:2
+melanoma pathology: normal fish:1
+melanoma pathology: radial growth phase:2
+melanoma pathology: regression:1
+melanoma pathology: rhabdoid melanoma:1
+melanoma pathology: signet ring melanoma:1
+melanoma pathology: small cell melanoma:1
+melanoma pathology: superficial spreading melanoma, vertical growth phase:3
+melanoma pathology: superficial spreading melanoma:3
+melanoma pathology: tumour infiltrating lymphocytes:4
+melanoma pathology: ulceration:1
+melanoma pathology: vertical growth phase:2
+melanoma stains hmb 45+, and adjacent naevus is negative:1
+melanoma with depigmentation:1
+melanoma:1
+melanoma:16
+melanonychia:18
+melasma :23
+melasma:5
+meningococcal disease:1
+meningococcal petechiae:4
+mepilex silicone dressing:1
+merkel cell carcinoma pathology:4
+merkel cell carcinoma:6
+metastatic crohn disease pathology:5
+metastatic crohn disease:1
+metastatic melanoma :10
+metastatic melanoma arising within scar from excision of primary melanoma:1
+metastatic melanoma pathology:4
+metastatic melanoma:20
+meyerson naevus:3
+microgeodic disease on x-ray:2
+microgeodic disease:2
+microsporum canis:1
+mid-dermal elastolysis:5
+miescher naevus:1
+mild acne vulgaris:1
+milia after fluorouracil cream:1
+milia associated with epidermolysis bullosa:1
+milia en plaque:1
+milia pemphigoid 27:1
+milia:21
+miliaria pustulosa:1
+miliaria rubra:1
+miliaria:4
+milkers nodule:2
+minocycline induced nail pigmentation:1
+mint:3
+mixed connective tissue disease:4
+mmm5:1
+moccasin tinea pedis:1
+moderately differentiated squamous cell carcinoma pathology:2
+mohs 10:1
+mohs 11 :1
+mohs 12 :1
+mohs 13 :1
+mohs 14 :1
+mohs 15 :1
+mohs 16 :1
+mohs 17 :1
+mohs 18 :1
+mohs 19 :1
+mohs 1:1
+mohs 2 :1
+mohs 20:1
+mohs 3:1
+mohs 4:1
+mohs 5:1
+mohs 6:1
+mohs 7:1
+mohs 8:1
+mohs 9:1
+mohs colour coding:1
+mohs excision:1
+mohs he staining:1
+mohs microscopic examination:1
+mohs microscopic slide examination:1
+mohs sections:1
+mole mapping:6
+mole: compound naevus:1
+mole: dermal naevus:1
+mole: junctional naevus:1
+moles:39
+molluscum contagiosum  pathology:3
+molluscum contagiosum:65
+mongolian spot pathology:1
+monkeypox:3
+moon face:1
+morbihan disease:2
+morbilliform drug eruption:4
+morbilliform rug reaction:1
+morgellon disease:5
+morphoea:34
+morphoeic basal cell carcinoma:4
+mosquito bite :1
+mouth ulceration + glossitis in granulomatosis with polyangiiitis :1
+mucinous carcinoma pathology:3
+mucocoele of the lip:3
+mucocoele:2
+mucormycosis pathology:2
+mucosal involvement in toxic epidermal necrolysis:1
+mucosal vitiligo:1
+mucositis due to mycoplasma:1
+muehrcke nail:2
+multicentric reticulohistiocytosis: swinfen charitable trust:3
+multinucleate cell angiohistiocytoma pathology:4
+multiple melanonychia:1
+multiple positive patch tests to acrylates:1
+multiple trichoepitheliomas:1
+multiple wasp stings:1
+mycetoma  pathology:2
+mycetoma foot:2
+mycetoma:1
+mycobacterium abcessus:1
+mycobacterium abscessus:1
+mycobacterium chelonae:7
+mycobacterium marinum skin infection pathology:4
+mycobacterium marinum skin infection pathology; ziehl-neelsen stain:1
+mycobacterium marinum:16
+mycosis fungoides:14
+myofibroma pathology:9
+myxofibrosarcoma pathology:7
+myxoid cyst:16
+myxoid liposarcoma pathology:2
+naevus anaemicus:7
+naevus lipomatosus superficialis pathology:2
+naevus of ito:2
+naevus of ota:3
+naevus with eccentric pigmentation:1
+nail biopsy:8
+nail biting:1
+nail candidiasis:1
+nail cosmetics:1
+nail discoloration due to hydroxyurea:1
+nail dystrophy due to compulsive picking:1
+nail dystrophy due to onychomycosis:1
+nail dystrophy due to psoriasis:1
+nail dystrophy in nail patella syndrome :1
+nail dystrophy induced by hydroxyurea:1
+nail enlargement due to osteoma:1
+nail fold capillaries in systemic sclerosis:1
+nail fold telangiectasia:1
+nail glue:2
+nail groove due to myxoid cyst:1
+nail infarction:1
+nail loss after toxic epidermal necrolysis:1
+nail loss due to lichen planus:1
+nail loss due to melanoma:1
+nail melanoma:1
+nail pigmentation due to hydroxyurea:1
+nail psoriasis pitting:1
+nail psoriasis:59
+nail ridges due to eczema:1
+nail ridging due to eczema:1
+nail shedding due to lichen planus:1
+nail splitting due to lichen planus:1
+nail splitting: onychoschizia:1
+nail staining:1
+nail unit naevus:1
+nailfold capillary damage in antisynthetase syndrome:1
+nails in psoriasis:7
+napkin dermatitis thrush:1
+napkin dermatitis:36
+napkin psoriasis infant boy:4
+natural hair in woman of african descent:2
+natural hair twisted in woman of african descent:3
+natural hair with weaves in woman of african descent:1
+necrobiosis lipoidica pathology:5
+necrobiosis lipoidica:4
+necrobiotic xanthogranuloma pathology:5
+necrolytic migratory erythema:5
+necrotic spider bites day 1:1
+necrotic spider bites day 2:1
+necrotic spider bites day 3:1
+necrotising fasciitis pathology:6
+necrotising fasciitis:11
+necrotising infundibular crystalline folliculitis pathology:3
+necrotising skin infection:3
+needling a myxoid cyst:2
+negative-pressure wound therapy:1
+neonatal cephalic pustulosis:3
+neonatal lupus:3
+neurodermatitis:4
+neurofibroma pathology:4
+neurofibromatosis :1
+neurofibromatosis:31
+neuropathic ulcer:5
+neurothekeoma  pathology:5
+neutrophilic dermatosis associated with rheumatoid arthritis:3
+neutrophilic dermatosis of dorsal hands:1
+neutrophilic eccrine hidradenitis:1
+nevisense device:1
+nevisense procedure:1
+nickel allergy:1
+nickel allergy:5
+nickel dermatitis:1
+nipple eczema:3
+nipple naevus:1
+nipple papilloma:1
+nipple papillomatosis:1
+nitrile examination gloves:1
+nivolumab-induced lichenoid dermatitis:2
+nocardia:3
+nod-melanoma-2:1
+nod-melanoma:1
+nodular amyloidosis:1
+nodular basal cell carcinoma:4
+nodular fasciitis pathology:3
+nodular melanoma:13
+nodular panniculitis:1
+nodular prurigo:7
+nodular-bcc:1
+nodulocystic acne:3
+nodulocystic basal cell carcinoma:2
+nokor needle:1
+nonspecific scabies rash:1
+noonan syndrome:1
+normal skin pathology with haematoxylin and eosin stain:1
+notalgia paraesthetica:1
+notalgia paraesthetica:3
+nummular dermatitis discoid eczema:79
+nummular dermatitis in a patient on anti-tnf:1
+nummular dermatitis:6
+nxg:1
+oatmeal:1
+occupational candida nail infection:1
+occupational extensive dermatitis:1
+occupational hand dermatitis:4
+occupational hand infection:1
+ochronosis following long-term use of hydroquinone:2
+ocular cicatricial pemphigoid:1
+ocular rosacea:1
+ointment formulation:1
+omphalomesenteric duct remnant pathology:2
+onychogryphosis:3
+onycholysis as reaction to artificial nails:2
+onycholysis:10
+onychomatricoma:1
+onychomycosis pathology:2
+onychomycosis:8
+onychopapilloma:5
+onychophagia:3
+open comedones:2
+optical coherence tomography of scc in situ:1
+optical coherence tomography: actinic keratosis:2
+optical coherence tomography: epidermal and dermal structures:3
+optical coherence tomography: onychomycosis:1
+optical coherence tomography:5
+oral allergy foods associated with grass pollen allergy:1
+oral allergy foods associated with ragweed pollen allergy:1
+oral cancer:2
+oral candidiasis:1
+oral crohn disease:1
+oral erythema multiforme:1
+oral fibroma:1
+oral graft versus host disease:1
+oral hairy leukoplakia pathology:3
+oral hand foot and mouth:1
+oral leukoplakia:3
+oral lichen planus reticular pattern:1
+oral lichen planus:1
+oral squamous cell carcinoma:1
+oral thrush:1
+orf:45
+orofacial granulomatosis pathology:4
+osler node:1
+osler nodes:1
+osteoma cutis pathology:5
+osteoma cutis some years after haematoma due to blunt injury:2
+osteoma cutis:1
+ostraceous psoriasis:1
+otitis externa:6
+otitis-externa:1
+overcurvature of nail:1
+oxybenzone and mexenone allergy on patch testing with photoaggravation:1
+pachyonychia congenita:5
+pachyonychia:1
+paget disease:3
+painful lipomas:2
+painful red, callused palms due to protein kinase inhibitor:1
+palisaded and encapsulated neuroma pathology:3
+palisading dermatofibroma pathology:3
+palmar burrows due to scabies:2
+palmar crease pigmentation in addison disease:1
+palmar dermatitis:1
+palmar erythema in rheumatoid disease:1
+palmar erythema:6
+palmar hyperhidrosis:1
+palmar psoriasis:1
+palmar pustulosis:1
+palmoplantar fibromatosis pathology:4
+palmoplantar psoriasis:46
+palmoplantar pustulosis:3
+pancreatic panniculitis:3
+panniculitis due to atypical mycobacterial infection:1
+panniculitis due to vemurafenib:1
+panniculitis:3
+papilloma due to vemurafenib:3
+papillomatous naevus:1
+papular mucinosis pathology, staining with alcian blue:1
+papular mucinosis pathology:2
+papular urticaria:3
+paracoccidioidomycosis  pathology:3
+parakeratosis pustulosa:2
+paraneoplastic pemphigus pathology:3
+paronychia as reaction to nail enamel:1
+paronychia in hairdresser:1
+paronychia:10
+parotid swelling:1
+parsley:2
+parsnip:1
+pas stain of aspergillus seen in a skin biopsy:1
+pas stain reveals superficial fungal elements due to candida infection:1
+paste formulation:1
+patch formulation:1
+patch test allergy to usnic acid:1
+patch test lily:1
+patch test positive to thiuram:1
+patch test:50
+patch testing:3
+patch tests in cosmetic allergy:2
+patch tests in position:1
+patch tests positive to rubber gloves:1
+patch tests: dermatitis to tape:1
+patch tests: extension of dermatitis to surrounding skin:1
+patch tests:17
+path gannulare fig 3:1
+pathergy in behcets:1
+pathergy:1
+pathology of actinic keratosis:2
+pathology of acute eczema:1
+pathology of basal cell carcinoma:2
+pathology of bullous pemphigoid:1
+pathology of cherry angioma:1
+pathology of chronic eczema:1
+pathology of compound naevus:1
+pathology of cutaneous lymphadenoma:3
+pathology of cutis laxa:4
+pathology of dermatofibroma:1
+pathology of discoid lupus erythematosus:6
+pathology of epidermoid cyst:1
+pathology of erythema annulare centrifugum:1
+pathology of erythema gyratum repens:1
+pathology of extramammary paget disease:3
+pathology of granuloma annulare:1
+pathology of interstitial granulomatous dermatitis:4
+pathology of intradermal naevus:1
+pathology of invasive squamous cell carcinoma:1
+pathology of junctional naevus:1
+pathology of leucocytoclastic vasculitis:2
+pathology of lichen planus:2
+pathology of melanoma:1
+pathology of pigmented seborrhoeic keratosis:1
+pathology of psoriasis  x200:1
+pathology of psoriasis x40:1
+pathology of seborrhoeic keratosis:1
+pathology of solar lentigo:1
+pathology of squamous cell carcinoma in situ:2
+pathology of squamous cell carcinoma keratinisation:1
+pathology of toxic epidermal necrolysis:3
+pathology of trichilemmal cyst:1
+pattern balding:3
+pdt:4
+pecoma   pathology:3
+peeling after fish poisoning:1
+peeling due to fish poisoning:1
+peeling toes after scarlet fever:1
+peels:2
+pellagra:3
+pembrolizumab-induced psoriasis:3
+pemphgigus:2
+pemphigoid gestationis:8
+pemphigoid nodularis:1
+pemphigoid: direct immune fluorescence:1
+pemphigus foliaceus indirect immunofluorescence:1
+pemphigus foliaceus pathology:5
+pemphigus foliaceus – direct immunofluorescence:1
+pemphigus foliaceus:7
+pemphigus of eyelids:1
+pemphigus vulgaris :1
+pemphigus vulgaris indirect immunofluorescence:1
+pemphigus vulgaris pathology:4
+pemphigus vulgaris:2
+pemphigus:7
+penile high grade squamous epithelial lesion:1
+penile intraepithelial neoplasia:2
+penile lichen planus:2
+penile lichen sclerosus:6
+penile papules due to scabies:6
+penile pearly papules:3
+penile psoriasis:5
+penile squamous cell carcinoma:1
+perforating collagenosis:4
+perianal high grade squamous intraepithelial lesion:1
+perianal lichen sclerosus:8
+perianal streptococcal dermatitis:1
+perifolliculitis capitis abscedens et suffodiens:2
+perinal squamous cell carcinoma in situ:1
+perineurioma pathology:4
+periocular dermatitis:3
+perioral contact urticaria:1
+perioral dermatitis:37
+periorificial dermatitis:1
+periorificial dermatitis:1
+periunguagl pyogenic granuloma:1
+periungual fibroma in tuberous sclerosis:8
+periungual fibroma:1
+periungual warts:1
+perniosis pathology:5
+perniosis:5
+petechiae due to thrombocytopenia:1
+petroleum jelly:1
+phaeohyphomycosis pathology, pas stain:1
+phaeohyphomycosis pathology:7
+phases of hair cycle:1
+photocontact dermatitis:6
+photoonycholysis:1
+photosensitive and koebnerised plaque psoriasis arising after mild sunburn:1
+photosensitive dermatitis:1
+photosensitivity:7
+phototherapy unit:1
+phytophotodermatitis:1
+piebaldism: white forelock:1
+piebaldism:5
+piezogenic papules:9
+pigmentary phytophotodermatitis:4
+pigmentation from laser hair removal:1
+pigmented angiokeratoma:1
+pigmented basal cell carcinoma:1
+pigmented blue naevus:1
+pigmented congenital melanocytic naevus:1
+pigmented contact cheilitis:1
+pigmented dermatofibroma:2
+pigmented dermatofibrosarcoma:1
+pigmented intraepidermal carcinoma:1
+pigmented kaposi sarcoma:1
+pigmented lichen planus:1
+pigmented melanocytic naevus:1
+pigmented melanoma:1
+pigmented porokeratosis (melan a):1
+pigmented porokeratosis histology:1
+pigmented seborrhoeic keratosis:1
+pigmented solar lentigo:1
+pigmented spindle cell naevus of reed pathology:5
+pigmented splinter haemorrhage:1
+pigmented streaks caused by bleomycin:1
+pilar cyst:2
+pilar cysts:1
+pilar sheath acanthoma pathology:6
+pilomatricoma pathology:6
+pilomatricoma:2
+pilomatrixoma:1
+pilonidal sinus pathology:4
+pilonidal sinus:2
+pincer nail deformity:1
+pinch purpura due to amyloidosis:1
+pinworms:1
+pitted keratolysis  pathology:1
+pitted keratolysis:6
+pityrasis alba:5
+pityriasiform seborrhoeide:6
+pityriasis alba:7
+pityriasis amiantacea:6
+pityriasis lichenoides chronica:6
+pityriasis lichenoides et varioliformis acuta (pleva) pathology:5
+pityriasis lichenoides et varioliformis acuta:3
+pityriasis lichenoides:1
+pityriasis rosea:48
+pityriasis rubra pilaris pathology:3
+pityriasis rubra pilaris:9
+pityriasis versicolor pathology:4
+pityriasis versicolor:47
+plant contact dermatitis:4
+plant dermatitis:3
+plantar psoriasis:1
+plantar pustulosis:2
+plaque lichen planus:1
+plaque of psoriasis:1
+plaque psoriasis:1
+plaque2:1
+plasma cell balanitis:1
+plasma cell vulvitis:1
+plasma cell:1
+plasmacytoma cd138 immunostaining:1
+plasmacytoma histology kappa staining:1
+plasmacytoma histology:2
+plasmacytoma lambda immunostaining:1
+plasmacytoma:2
+plaster rash:1
+pleomorphic hyalinising angiectatic tumour (phat) pathology:3
+pleomorphic lipoma pathology:4
+pleomorphic liposarcoma pathology:2
+podoconiosis:1
+poikiloderma of civatte:7
+poliosis due to piebaldims:1
+poliosis in alopecia areata:1
+poliosis in halo naevus:1
+poliosis in vitiligo:1
+poliosis of eyelashes:1
+polyarteritis nodosa pathology:3
+polyarteritis nodosa:3
+polycystic ovarian syndrome:1
+polycystic ovaries:1
+polymorphic eruption of pregnancy puppp:1
+polymorphic eruption of pregnancy:2
+polymorphic light eruption pathology:4
+polymorphic light eruption:21
+polymorphous light eruption:3
+polymorphous sweat gland carcinoma pathology:6
+pompholyx :27
+pompholyx:3
+pompholyx:9
+poorly differentiated squamous cell carcinoma pathology:2
+poorly-diff-scc:1
+porokeratosis macro:1
+porokeratosis mibelli:2
+porokeratosis micro:1
+porokeratosis of mibelli:1
+porokeratosis pathology:3
+porokeratosis ptychotropica histology:1
+porokeratosis:1
+porokeratotic eccrine ostial and dermal duct naevus:1
+porphyria cutanea tarda:10
+port wine stain:7
+positive patch test reaction to nickel, thiuram:1
+positive patch test to acrylate:1
+positive patch test to budesonide:1
+positive patch test to cobalt:2
+positive patch test to formaldehyde:1
+positive patch test to isothiazolinone:1
+positive patch test to methylisothiazolinone:1
+positive patch test to paraben mix:1
+positive patch test to paratertiary butylphenol formaldehyde resin:1
+positive patch test to ppd:1
+positive patch test to thiomersal:1
+positive patch test to thiuram:1
+positive patch test to topical corticosteroids:1
+positive patch tests to acrylates in a dentist:1
+positive patch tests:1
+positive prick test:1
+post-inflammatory hypopigmentation:1
+post-inflammatory pigmentation:1
+post-sclerotherapy staining:1
+postinflammatory dyspigmentation following laser epilation:1
+postinflammatory hyperpigmentation  (inflamed cyst):1
+postinflammatory hyperpigmentation due to acne:1
+postinflammatory hypopigmentation: longstanding prurigo:1
+postinflammatory hypopigmentation: surgery and cryotherapy to multiple skin cancers:1
+postinflammatory hypopigmentation: thermal burn:1
+postinflammatory pigmentation. healed eczema:1
+postinflammatory pigmentation. irritant dermatitis:1
+postinflammatory pigmentation. oven burn:1
+postinflammatory pigmentation. photodynamic therapy:1
+postinflammatory pigmentation. violin playing (friction):1
+postinflammatory pigmentation:1
+poststeroid panniculitis pathology:1
+potassium permanganate:3
+powder formulation:1
+ppd negative patch test:1
+praderwilli genetics:1
+pre-bullous pemphigoid urticated plaques:2
+pre-tca:1
+preauricular-sinus:1
+preparing a tzanck smear:4
+preparing glass slide for a coverslip:1
+pressing on subcutaneous injection site:1
+pressure sore:3
+pressure urticaria:3
+pretibial myxoedema in graves disease:21
+pretibial myxoedema: alcian blue stain on pathology:1
+pretibial myxoedema:6
+primary cutaneous adenoid cystic carcinoma:2
+primary cutaneous amyloidosis pathology:17
+primary cutaneous diffuse large b cell lymphoma bcl 2 stain:1
+primary cutaneous diffuse large b cell lymphoma pathology:8
+primary erythromelalgia:2
+primula obconica:2
+progressive macular hypomelanosis:2
+proliferating epidermoid cyst pathology:4
+proliferating trichilemmal cyst pathology:5
+proliferative-haemangioma:1
+prominent capillaries due to topical steroids:1
+prurigo nodularis:1
+prurigo of pregnancy:15
+prurigo pigmentosa pathology:4
+prurigo:7
+pruritic atopic dermatitis:1
+pruritic urticated papules and plaques of pregnancy:4
+pruritus due to iron deficiency:1
+pruritus of pregnancy :1
+pruritus vulvae:1
+pruritus:9
+ps-ear:1
+ps:1
+pseudofolliculitis barbae:9
+pseudomonas infection:4
+pseudomyxoid cyst of nail:1
+pseudopelade of brocq:6
+pseudoporphyria from nonsteroidal anti-inflammatory drug:1
+pseudoporphyria:6
+pseudovascular squamous cell carcinoma pathology:1
+pseudoxanthoma elasticum  pathology:4
+pseudoxanthoma elasticum:3
+psoriasis 6 months after commencing adalimumab:5
+psoriasis before commencing adalimumab:5
+psoriasis in blaschko distribution:2
+psoriasis in child:2
+psoriasis induced by lithium:3
+psoriasis moderate on back:1
+psoriasis of hands:1
+psoriasis of knees:1
+psoriasis of the scalp:20
+psoriasis post-calcipotriol:1
+psoriasis pre-calcipotriol:1
+psoriasis with very thick scale:1
+psoriasis:1
+psoriasis:12
+psoriatic arthritis:3
+psoriatic dactylitis:1
+psoriatic erythroderma:1
+psoriatic nail dystrophy:47
+psoriatic onycholysis:1
+pterygium of nail due to lichen planus:1
+pubic lice:1
+pubic louse  :1
+pubic louse:1
+puffy hand in early systemic sclerosis:1
+pulse dye laser for telangiectasia, 2 weeks later:1
+pulse dye laser for telangiectasia, before treatment:1
+pulse dye laser for telangiectasia, day after treatment:1
+pulse dye laser treatment:1
+pulsed dye laser treatment:1
+punch biopsy transported on saline-soaked gauze:1
+punch grafting in vitiligo:5
+punctate keratoderma:3
+punctate leukonychia:4
+puppp polymorphous eruption of pregnancy:2
+purpura due to amyloidosis:2
+purpura due to heparin induced thrombocytopenia:2
+purpura on amputation stump:1
+purpura:7
+pustular psoriasis of the hands and fee:21
+pustular psoriasis:1
+pustular psoriasis:3
+pustular vasculitis:3
+pustule in bullous impetigo:1
+pustules due to potassium iodide:1
+puva hand unit:1
+puva:3
+pxe:3
+pyoderma faciale, rosacea fulminans:6
+pyoderma gangrenosum:11
+pyogenic granuloma:8
+r0012328:1
+radial growth phase superficial spreading melanoma:1
+radiation dermatitis pathology:3
+radiation-induced stomatitis:1
+radiotherapy:9
+ragged cuticles:1
+ramsay hunt syndrome: facial palsy:2
+rash due to vemurafenib:1
+raynaud phenomenon:5
+rdeb 1:1
+rdeb 2:1
+reactive perforating collagenosis pathology:4
+reagents for direct immune fluorescence, antibody-fluorophores to igg, igm, iga and c3:1
+recessive x-linked ichthysosis:4
+recurrence of basisquamous cancer:1
+recurrence of lentigo maligna:1
+recurrence of melanocytic naevus:1
+recurrent basal cell carcinoma suitable for mohs:1
+recurrent bcc post cryotherapy:1
+recurrent herpes simplex labialis:1
+recurrent naevus dermoscopy:1
+recurrent naevus:1
+red henna temporary tattoo:2
+red lunula:1
+red patch of psoriasis:1
+reduced fingerprint due to dermatitis:1
+reed naevus:1
+reed sternberg lymphocyte nci vol 7172 300:1
+reiter syndrome:2
+relapsing polychondritis:5
+relaxer used to striaghten hair in woman of african descent:3
+reticular erythematous mucinosis pathology:3
+reticular erythematous mucinosis:2
+reticular lichen planus:1
+reticular vascular naevus:3
+reticulate erythematous mucinosis:1
+reticulohistiocytoma pathology:3
+rheumatoid disease:7
+rheumatoid nodule pathology:3
+rheumatoid nodules:1
+rheumatoid ulcer:3
+rhinophyma:10
+rhus aromatica:1
+ridge ending fingerprint:1
+ring flash:1
+rocky mountain spotted fever phil 1962 lores:1
+rolled oatmeal:1
+rolling acne scars:1
+rosacea :8
+rosacea around eyelid:1
+rosacea:57
+rosai-dorfman disease pathology:5
+rothmund-thomson syndrome:6
+rubber dermatitis:3
+rubella rash:3
+s100+ in folliculotropic metastatic melanoma:1
+salmon patch:3
+sarcoid nodules:1
+sarcoidosis  pathology:4
+sarcoidosis:6
+satellite metastatic melanoma:1
+sbcc2:1
+sbcc:1
+scabies dermoscopy:3
+scabies pathology:6
+scabies:46
+scalded skin syndrome:2
+scalp folliculitis:21
+scalp psoriasis in child:1
+scalp psoriasis:14
+scar from chemical burn:1
+scar sarcoidosis:1
+scarlet fever:2
+scarlet fever:3
+scarring from infantile acne:2
+scarring from surgeries to many basal cell carcinomas in basal cell naevus syndrome:1
+scarring in hidradenitis suppurativa:14
+scc 007:1
+scc-illdefined:1
+scc-insitu-close:1
+scc-insitu:1
+scc-ulcerated:1
+scc:1
+scc_ear:1
+schamroth window:1
+schnitzler syndrome:1
+schwannoma pathology:4
+scleredema:4
+sclerema neonatorum pathology:2
+sclerodactyly:1
+scleromyxoedema:6
+sclerosing variant of well-differentiated liposarcoma pathology:1
+sclerotherapy:2
+scombroid rash:2
+scrofuloderma :1
+scrofuloderma:3
+scrotal wart:1
+scrub typhus healing lesion:1
+scrub typhus initial lesion:1
+scrub typhus scar:1
+scurvy:4
+sea bather's eruption:1
+sebaceoma in naevus sebaceous pathology:2
+sebaceoma pathology:5
+sebaceous carcinoma pathology:4
+sebaceous carcinoma:3
+sebaceous hyperplasia:27
+sebaceous naevus with basal cell carcinoma:3
+sebaceous naevus:6
+sebopsoriasis of chest:1
+sebopsoriasis of ear:1
+sebopsoriasis of forehead:1
+sebopsoriasis of scalp:1
+seborrhoeic dermatitis:23
+seborrhoeic keratoses:5
+seborrhoeic keratosis cerebriform pattern on dermatoscopy:1
+seborrhoeic keratosis: dermoscopy:37
+seborrhoeic keratosis:69
+seborrhoeic-dermatitis:1
+seborrhoeic-keratosis:1
+secondary acrocyanosis:3
+secondary lymphangiectases:2
+secondary syphilis:1
+segmental vitiligo:4
+self examination:2
+senile purpura:7
+sentinel node biopsy persistent tattoo:1
+septic emboli:7
+severe adverse reaction to a drug :1
+severe crusted scabies:1
+severe cutaneous adverse reaction to a drug:1
+severe cutaneous drug eruption:1
+severe psoriasis affecting back:1
+severe psoriasis buttocks:1
+severe psoriasis:2
+sezary syndrome:2
+shagreen patch in tuberous sclerosis:3
+shampooing in a salon:1
+shave biopsy instrument:1
+shaving folliculitis:3
+shed hair due to telogen effluvium:1
+shiitake flagellate dermatitis:3
+shiitake flagellate erythema:6
+shingles:1
+shoe dermatitis:3
+short anagen hair:3
+sign of drug abuse:1
+silderm scar gel:1
+silver dressing:1
+silver nitrate chemical cautery:1
+silver nitrate pigmentation pathology:2
+silver nitrate sticks:1
+silver-containg dressing:3
+sinclair classification of male pattern alopecia:1
+sister mary joseph's nodule of the umbilicus:4
+sjogren vasculitis:3
+sjs ten 016:1
+skin anatomy and cellular effectors:1
+skin biopsy for histopathology:1
+skin biopsy set:1
+skin cancer arising on limb of amputee:2
+skin cancers:1
+skin lesions in whipple disease:3
+skin phototype 1:1
+skin phototype 3:1
+skin phototype 4:1
+skin picking due to methamphetamine:1
+skin problems affecting an amputation stump:6
+skin rash due to bowel bypass syndrome:3
+skin signs of insulin resistance:1
+skin structure:1
+skin surgery for melanoma:4
+skin tag:29
+skin tags:2
+skin thinning from topical steroids:1
+skin thinning:1
+slides being washed:1
+small plaque psoriasis:4
+small vessel vasculitis :1
+small vessel vasculitis:4
+smoking and antiphospholipid syndrome:1
+smoking and cheilitis:1
+smoking and discoid lupus erythematosus:3
+smoking and hidradenitis suppurativa:3
+smoking and its effects on the skin:6
+smoking and its raynaud phenomenon:1
+smoking and oral candidiasis:1
+smoking and psoriasis:2
+smoking and skin cancer:3
+solar comedones:10
+solar elastosis:3
+solar lentigo pathology:1
+solar lentigo:64
+solar urticaria provoked experimentally:1
+solar urticaria:2
+solid brown naevus:1
+solid formulation:1
+solid pink naevus:1
+solitary neurofibroma:3
+soliva sessilis plant:1
+solution formulation:1
+spa pool folliculitis :6
+spa pool folliculitis:5
+specimen placed in gel:1
+specimen stored in liquid nitrogen:1
+spider angioma:6
+spider naevi:2
+spider naevus:17
+spider telangiectasis:1
+spindle cell lipoma pathology:6
+spindle cell squamous cell carcinoma pathology:2
+spitz melanocytic naevus:1
+spitz naevus pathology:4
+spitz naevus:6
+spitzoid melanoma on the arm of an adult:1
+spitzoid melanoma on the leg of a child:1
+spitzoid tumour of uncertain significance or stump pathology:1
+splinter haemorrhages:2
+spontaneous urticaria:2
+sporotrichosis pathology:4
+spray formulation:1
+spreading autosensitisation reaction:1
+squamous cell carcinoma in situ pathology:3
+squamous cell carcinoma in situ:1
+squamous cell carcinoma of limbs:19
+squamous cell carcinoma of lip:1
+squamous cell carcinoma on the face:13
+squamous cell carcinoma pathology:4
+squamous cell carcinoma:15
+squamous cell carcinoma:3
+squmaous cell papilloma or viral wart:1
+ssm36:1
+ssmm:1
+stain from iron injection:2
+staphylococcal impetigo:1
+staphylococcal panniculitis:1
+staphylococcal scalded skin:1
+steatocyst:1
+steatocystoma multiplex:1
+steatocystoma multiplex:3
+steroid acne:13
+steroid atrophy:1
+steroid induced telangiectasia:2
+steroid rosacea:3
+steroid striae:1
+stevens johnson syndrome:2
+stills rash:1
+stomatitis due to toxic epidermal necrolysis:1
+stomatitis:1
+stress and the itch-scratch cycle:1
+stretch marks (striae):6
+stretch marks due to topical steroids:1
+stretch marks from dermovate cream:1
+striae gravidarum:1
+striate leukonychia during chemotherapy:1
+striate leukonychia:1
+string trimmers dermatitis:2
+structure of hair bulb:1
+stucco keratosis:1
+sturge-weber syndrome:1
+stye:2
+subacute cutaneous le:3
+subacute eczema pathology:3
+subacute lupus erythematosus. sle:3
+subcision procedure:3
+subcorneal pustular dermatosis:6
+subcutaneous fat necrosis of the newborn pathology:4
+subcutaneous fat necrosis of the newborn:3
+subcutaneous panniculitis-like t-cell lymphoma pathology:7
+subcutaneous sweet syndrome:2
+subungual exostosis:2
+subungual haematoma:4
+subungual haemorrhage:1
+subungual hyperkeratosis due to onychopapilloma:1
+subungual hyperkeratosis:1
+subungual melanoma :3
+subungual melanoma:9
+subungual squamous cell carcinoma:1
+sun damage: actinic cheilitis:1
+sun damage: actinic keratoses:1
+sun damage: photoageing:1
+sun damaged hands in renal transplant patient:1
+sunburn in vitiligo:2
+sunburn:8
+sunburned earlobe following minimal sun exposure due to vemurafenib:1
+sunburned legs:1
+sunscreen dermatitis:4
+suntan in dark skin:2
+superficial acral fibromyxoma pathology:3
+superficial bacterial folliculitis:2
+superficial basal cell carcinoma:4
+superficial spreading melanoma in teenager:2
+superficial spreading melanoma:35
+superficial thrombophlebitis:2
+superficial white onychomycosis 1:1
+superficial white onychomycosis 2:1
+superficial white onychomycosis 3:1
+supernumerary nipple:12
+surgical eyelid oedema:1
+surgical glove:2
+surgical green background:1
+surgical wound dehiscence:2
+sutured wound after advancement flap:1
+sutured wound:1
+suturing:13
+sweat gland naevus:1
+sweet disease:3
+sweet syndrome affecting lip:1
+sweet syndrome due to vemurafenib:1
+sweet syndrome:8
+swimmers itch:2
+sycosis barbae:3
+symblepharon after toxic epidermal necrolysis:1
+synechiae in cicatricial pemphigoid:1
+synovial metaplasia pathology:4
+syphilis    pathology:3
+syphilis:12
+syringofibroadenoma pathology:4
+syringoma:2
+syringomas:1
+systemic le:6
+systemic lupus erythematosus:62
+systemic sclerosis salt and pepper pigmentation:1
+systemic sclerosis:4
+sézary syndrome:4
+t cell lymphoma, nasal type pathology:4
+t-cell lymphoma:1
+tanning cream:3
+target lesion:3
+target lesions associated with mycoplasma infection:1
+target lesions:11
+targetoid lesion in bullous pemphigoid:2
+targetoid lesion in erythema annulare centrifugum:1
+targetoid lesion in finkelstein vasculitis:1
+targetoid lesion in fixed drug eruption:3
+targetoid lesion in pemphigoid gestationis:1
+targetoid lesion in urticaria:3
+targetoid lesion in urticarial vasculitis:2
+tattoo granuloma:1
+tattoo reaction:3
+teenager with acne:1
+telangiectasia due to erythema ab igne:1
+telangiectasia due to radiation:1
+telangiectasia due to systemic sclerosis crst syndrome:1
+telangiectasia due to topical steroid:1
+telangiectasia in basal cell carcinoma:1
+telangiectasia in poikiloderma vasculare atrophicans ctcl:1
+telangiectasia macularis eruptiva perstans:1
+telangiectasia noted in necrobiosis lipoidica:1
+telangiectasia seen in radiation area:1
+telangiectasia:7
+telangiectatic cutaneous mastocytosis dermatoscopy:1
+telangiectatic cutaneous mastocytosis:2
+telogen effluvium regrowth:1
+telogen effluvium:3
+tendinous xanthoma:1
+terry 1:1
+terry nail:5
+the norwood classification of male pattern alopecia:1
+thermage® procedure:7
+thermal burn:3
+thermally straightened natural hair in woman of african descent:1
+thin skin:1
+thread veins:1
+thyroid acropachy:3
+thyroid ophthalmopathy:4
+tick bite:4
+tinea barbae:1
+tinea capitis :1
+tinea capitis pathology:3
+tinea capitis:11
+tinea corporis   pathology:3
+tinea corporis:2
+tinea corporis:23
+tinea cruris:2
+tinea cruris:4
+tinea faciei:4
+tinea faciei:5
+tinea incognita:1
+tinea incognito due to application of topical steroid to fungal infection:1
+tinea incognito pathology:4
+tinea incognito:4
+tinea manuum :1
+tinea manuum due to trichophyton erinacei:1
+tinea manuum:1
+tinea manuum:2
+tinea nigra pathology:2
+tinea nigra:1
+tinea pedis:1
+tinea pedis:32
+tobacco staining:1
+toluidine blue stains mast cells purple in urticaria pigmentosa:1
+tongue piercing:1
+topical medication allergy:3
+topical puva followed by sun exposure has caused phototoxic pigmentation on uncovered skin:1
+topical skin adhesives:1
+topical steroids in differing vehicles:1
+toxic epidermal necrolysis:4
+toxic erythema of newborn:1
+toxic erythema of the newborn:3
+toxicodendron dermatitis:1
+toxicodendron:1
+toxoplasmosis   pathology:1
+trachyonychia:3
+traction alopecia:5
+transient acantholytic dermatosis or grover disease pathology:1
+transient acantholytic dermatosis:4
+transient lingual papillitis:3
+transparent film dressings:1
+transverse leukonychia:1
+traumatic bruise:1
+traumatic injury:1
+tree-fern:1
+treefern:2
+trichilemmal carcinoma pathology:4
+trichilemmal cyst pathology:5
+trichilemmoma pathology:4
+trichilemmoma:1
+trichloracetic acid for tca cross procedures:1
+trichoadenoma pathology:3
+trichoepithelioma pathology, bcl-2 stain:1
+trichoepithelioma pathology, ber-ep4 stain:1
+trichoepithelioma pathology:3
+trichoepithelioma:1
+trichomycosis axillaris:3
+trichorrhexis in loose anagen hair syndrome:1
+trichostasis spinulosa:1
+trichotillomania 03:1
+trichotillomania2:1
+trichotillomania:19
+trichrome vitiligo:4
+trifurcation fingerprint:1
+tripe palms:1
+tripods:1
+trombiculid mite:1
+tuberculosis:1
+tuberous sclerosis angiofibromas:1
+tuberous sclerosis digital fibromas:1
+tuberous sclerosis shagreen patch:1
+tuberous xanthomas:2
+tubular bandages:2
+tufted folliculitis:3
+tulle:1
+tumour of the follicular infundibulum pathology:2
+twenty nail dystrophy trachyonychia:1
+typical halo mole:1
+tzanck smear of herpes simplex:1
+ulcer:4
+ulcerated amelanotic nodular melanoma:1
+ulcerated melanoma:1
+ulcerated necrobiosis lipoidica:3
+ulcerative oral lichen planus:1
+umbilical psoriasis:4
+uncombable, spun glass hair:1
+uncut nail:1
+ungual melanoma:1
+ungual squamous cell carcinoma in situ:3
+ungueal wart:1
+unknown origin :1
+unna naevus:1
+unregulated home phototherapy with narrowband uvb lamp:1
+urachal cyst pathology:3
+uraemic pruritus  (renal itch):2
+urticaria from nonsteroidal anti-inflammatory drug:1
+urticaria in dark skin:1
+urticaria induced by ice:1
+urticaria pigmentosa: darier sign:1
+urticaria pigmentosa:3
+urticaria:24
+urticarial vasculitis:17
+urticated plaques in pemphigoid gestationis:1
+using iq chambers:1
+uv index:1
+uv therapy:1
+uv-ozone:1
+varicella:4
+varicose dermatitis:1
+variegate porphyria:2
+vascular malformation:55
+vascular staining pattern in dermal vessels for igm:1
+vascular-malformation:1
+vasculitic ulcer:1
+vasculitis 29:1
+vasculitis due to cryoglobulinaemia:1
+vasculitis:29
+venous eczema and lipodermatosclerosis:1
+venous eczema:7
+venous insufficiency:3
+venous lake after compression:1
+venous lake:15
+venous leg ulcer:3
+venous ulcer:4
+venous ulceration:3
+verruca vulgaris   pathology:3
+verrucous carcinoma pathology:1
+vesicles on palm in hand foot and mouth disease:1
+victor yushchenko ©time:1
+vin:5
+vinyl examination gloves:1
+viral exanthem:5
+viral skin swab:1
+viral wart:3
+viral warts on nipple:1
+viral warts:53
+virtual microscopy:1
+vitiligo nail:1
+vitiligo with follicular repigmentation:1
+vitiligo with leukotrichia or poliosis:1
+vitiligo with phototoxicity:1
+vitiligo with red border:1
+vitiligo. red halo :1
+vitiligo:60
+vulval cancer:1
+vulval comedones:1
+vulval cysts:3
+vulval erosive lichen planus:10
+vulval high grade squamous intraepithelial lesion:1
+vulval high-grade squamous intraepithelial lesion:1
+vulval lichen planus:12
+vulval lichen sclerosus :77
+vulval lichen simplex:17
+vulval psoriasis:9
+vulval ulcer:13
+vulvitis  pathology:3
+warfarin necrosis pathology:3
+wasp sting reaction causing loalised vasculitis with purpura:1
+wasp sting reaction persisted for more than 6 weeks:1
+wasp sting reaction:1
+waxing folliculitis:1
+weathering-nodule:1
+well differentiated squamous cell carcinoma pathology:2
+well-diff-scc:1
+wells syndrome  pathology:5
+wells syndrome pathology:1
+wells syndrome:1
+wet wraps:2
+wetsuit folliculitis:1
+white balance settings:1
+white card reflects light on subject:1
+white forelock in waardenburg syndrome:1
+white nail due to vitiligo:1
+white sponge naevus:1
+white spots on nail:1
+white spots on nails:1
+whole body unit:1
+whole slide imaging sample image:1
+whorl fingerprint:1
+wild carrot, responsible for phytophotodermatitis:1
+wood lamp examimation:1
+wood lamp:1
+woolly hair naevus:3
+wound infected by aeromonas hydrophila causing necrotising cellulitis:1
+wound infection:4
+wound undergoing treatment with negative-pressure device:1
+wrinkles:6
+x linked ichthyosis :1
+x linked ichthyosis:1
+xanthelasma:40
+xanthoma disseminatum:5
+xanthomas:3
+xeroderma pigmentosum07:1
+xeroderma pigmentosum:10
+xerosis:3
+xerotic eczema :1
+yellow nail syndrome:7
+yellow nails:2
+zika virus infection:6
+zygomycosis:2

@@ -1,0 +1,138 @@
+Total item : 602
+Total class : 135
+
+ageing, photoageing - actinic porokeratosis:1
+ageing, photoageing - milia:1
+ageing, photoageing - solar burn:5
+ageing, photoageing - solar elastosis, wrinkles:4
+bacterial infections - erysipelas:1
+bacterial infections - erythrasma:2
+bacterial infections - folliculitis:1
+bacterial infections - impetigo:3
+bacterial infections - pitted keratolysis:1
+bacterial infections - pyoderma vegetans:1
+bacterial infections - sycosis due to serratia:1
+bacterial infections - trichomycosis axillaris:1
+bullous diseases - bullous pemphigoid:4
+bullous diseases - epidermolysis bullosa:3
+bullous diseases - pemphigus vulgaris:3
+bullous diseases - pemphigus:1
+connective tissue disorders - chilblain lupus erythematosus:6
+connective tissue disorders - discoid lupus erythematosus:3
+connective tissue disorders - scle (subacute cutaneous lupus erythematosus):1
+connective tissue disorders - systemic scleroderma:1
+dermatitis - ekzema - allergic contact dermatitis:2
+dermatitis - ekzema - atopic dermatitis:3
+dermatitis - ekzema - dermatitis of the eyelids:1
+dermatitis - ekzema - dermatitis:1
+dermatitis - ekzema - infected eczema:1
+dermatitis - ekzema - irritant contact dermatitis:1
+dermatitis - ekzema - seborrheic dermatitis:2
+diseases of the sebaceous glands - acne, comedonal:1
+diseases of the sebaceous glands - acne, cystic:4
+diseases of the sebaceous glands - necrotic acne:5
+diseases of the sebaceous glands - perioral dermatitis:1
+drug eruptions - cortizon face:1
+drug eruptions - drug exanthem due to bezafibrate:1
+drug eruptions - ecchymoses due to topical corticosteroids:1
+drug eruptions - fixed drug eruption:1
+drug eruptions - maculopapular exanthem due to clindamycin:3
+drug eruptions - paronychia due to acitretin:1
+drug eruptions - perioral dermatitis from corticosteroids:1
+drug eruptions - photosensitivity reaction due to flutamide:2
+follicular syndromes with inflammation and atrophy - ulerythema ophryogenes:4
+full:301
+genodermatoses - ehlers - danlos syndrome:3
+genodermatoses - epidermodysplasia verruciformis (lewandowsky-lutz dysplasia):4
+genodermatoses - hailey-hailey disease:1
+genodermatoses - ichtyosis vulgaris:1
+genodermatoses - neurofibromatosis (νon recklinghausen's disease):1
+genodermatoses - x-linked ichthyosis:1
+hair diseases - alopecia areata:4
+hair diseases - androgenetic alopecia:1
+hair diseases - follicular lichen planus (lichen planopilaris):2
+hair diseases - follicular mucinosis:1
+hair diseases - pityriasis amiantacea:1
+hair diseases - pseudofolliculitis barbae:2
+keratinisation disorders - darier disease:3
+keratinisation disorders - giant comedone:1
+keratinisation disorders - pityriasis rubra pilaris:6
+keratinisation disorders - porokeratosis of mibelli:1
+lichen - hypertrophic lichen planus:2
+lichen - lichen planus pigmentosus:1
+lichen - lichen planus, annular:1
+lichen - lichen planus:1
+lichen - lichen sclerosus et atrophicus of the penis:1
+lichen - lichen sclerosus et atrophicus:4
+lichen - lichen sclerosus of the female genitalia:1
+lymphomas - lymphocytic infiltrations - lymphocytic infiltration of the skin (jessner):2
+lymphomas - lymphocytic infiltrations - mycosis fungoides:2
+lymphomas - lymphocytic infiltrations - non-hodgkin lymphoma:1
+lymphomas - lymphocytic infiltrations - primary cutaneous cd8-positive epidermotropic cytotoxic t cell lymphoma:6
+mastocytoses - juvenile xanthogranuloma:1
+mastocytoses - langerhans cell histiocytosis:6
+mastocytoses - mastocytoma:2
+mastocytoses - urticaria pigmentosa:2
+metabolic disease, nutrition - acanthosis nigricans:2
+metabolic disease, nutrition - lipoid proteinosis (urbach - wiethe syndrome):5
+metabolic disease, nutrition - pellagra:3
+metabolic disease, nutrition - xanthomas:1
+nail diseases - onychomycosis:7
+nail diseases - onychotillomania:2
+nail diseases - pseudomonas aeruginosa infection of the nail:2
+necrobiotic disorders - granuloma annulare generalised:4
+necrobiotic disorders - granuloma annulare, multiple:3
+necrobiotic disorders - granuloma annulare:4
+parasitoses, bites - bullous insect bites:1
+parasitoses, bites - democidosis - rosacea like:2
+parasitoses, bites - flea bites:2
+parasitoses, bites - scabies:6
+photodermatoses - actinic reticuloid:3
+pigmentation disorders - chromhidrosis:1
+pigmentation disorders - naevus of ota:1
+pigmentation disorders - nevus of ota:1
+pigmentation disorders - peutz - jeghers syndrome:7
+pigmentation disorders - vitiligo:1
+psoriasis - inverse psoriasis:1
+psoriasis - psoriasis of the genitalia:1
+psoriasis - psoriasis of the palms and soles (keratoderma):1
+psoriasis - psoriasis, keobner phenomenon:1
+psoriasis - psoriasis:1
+psoriasis - psoriatic nails:1
+psoriasis - pustular psoriasis:5
+sarcoidosis - sarcoidosis:10
+skin diseases in pregnancy - herpes gestationis:3
+skin diseases in pregnancy - polymorphic eruption of pregnancy (pruritic urticarial papules:2
+soft tissue tumors - cheloid:4
+soft tissue tumors - cheloids:4
+soft tissue tumors - kaposi sarcoma:3
+superficial fungal infections - candidiasis:3
+superficial fungal infections - pityriasis versicolor:2
+superficial fungal infections - tinea faciale:3
+superficial fungal infections - tinea incognita:1
+superficial fungal infections - tinea infection:1
+superficial fungal infections - tinea pedis (athlet's foot):1
+syphilis and other sexual transmitted diseases - condylomata lata, secondary syphilis:1
+syphilis and other sexual transmitted diseases - gonococcal urehritis:1
+syphilis and other sexual transmitted diseases - plantar macular exanthem, secondary syphilis:2
+syphilis and other sexual transmitted diseases - reiter's disease:1
+syphilis and other sexual transmitted diseases - secondary syphilis:2
+syphilis and other sexual transmitted diseases - ulcer, primary syphilis:4
+tuberculosis - :1
+tuberculosis - lupus tuberous:2
+tuberculosis - scrofuloderma:1
+urticaria - dermographism:1
+urticaria - urticaria:9
+urticaria - urticarial vasculitis:1
+various or of unknown etiology diseases - cutis verticis gyrata:1
+various or of unknown etiology diseases - erythema annulare centifigum:1
+various or of unknown etiology diseases - lupus miliaris disseminatus faciei:1
+various or of unknown etiology diseases - perforating folliculitis:1
+various or of unknown etiology diseases - piezogenic papules:1
+various or of unknown etiology diseases - pityriasis lichenoides et varioliformis acuta:3
+various or of unknown etiology diseases - sea urchin granuloma:1
+various or of unknown etiology diseases - terra firma:2
+viral infections - epstein - barr infection:1
+viral infections - herpes simplex:2
+viral infections - herpes zoster:1
+viral infections - warts:7

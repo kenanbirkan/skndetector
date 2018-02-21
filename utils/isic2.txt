@@ -1,0 +1,26 @@
+Total item : 13117
+Total class : 23
+
+actinic keratosis-benign:2
+angiofibroma or fibrous papule-benign:1
+angioma-benign:14
+atypical melanocytic proliferation-benign:2
+atypical melanocytic proliferation-indeterminate:7
+basal cell carcinoma-benign:1
+basal cell carcinoma-malignant:32
+benign:3
+dermatofibroma-benign:7
+lentigo nos-benign:60
+lentigo simplex-benign:26
+lichenoid keratosis-benign:1
+malignant:2
+melanoma-malignant:981
+nevus-benign:2262
+nevus-benign:9250
+nevus-indeterminate:5
+other-benign:9
+scar-benign:1
+seborrheic keratosis-benign:397
+seborrheic keratosis-malignant:1
+solar lentigo-benign:48
+squamous cell carcinoma-malignant:5

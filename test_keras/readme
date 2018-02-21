@@ -1,0 +1,16 @@
+#python 3
+easy_install -U pip
+https://www.tensorflow.org/install/install_linux
+ pip3 install --upgrade tensorflow-gpu
+ pip3 install --upgrade tensorflow
+ pip install numpy scipy
+ pip install scikit-learn
+ pip install pillow
+ pip install h5py
+ pip install opencv-python
+
+
+ sudo ldconfig /usr/local/cuda/lib64sudo ldconfig /usr/local/cuda/lib64
+
+ 29s 39ms/step - loss: 0.9694 - acc: 0.6392 - val_loss: 1.1982 - val_acc: 0.6418  keras1- first_try.h5
+ 3s 257us/step - loss: 0.4126 - acc: 0.8251 - val_loss: 0.5720 - val_acc: 0.7842  keras2 -  bottleneck_fc_model.h5
