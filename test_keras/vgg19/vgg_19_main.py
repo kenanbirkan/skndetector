@@ -22,7 +22,7 @@ batch_size = 16
 def train_top_model():
     start_time = datetime.datetime.utcnow()
     # build the VGG16 network
-    base_model = applications.VGG16(weights='imagenet', include_top=False, input_shape=(224, 224, 3))
+    base_model = applications.VGG19(weights='imagenet', include_top=False, input_shape=(img_height, img_width, 3))
     print('Model loaded.')
 
     # build a classifier model to put on top of the convolutional model
