@@ -10,7 +10,21 @@ https://www.tensorflow.org/install/install_linux
  pip install opencv-python
 
 
- sudo ldconfig /usr/local/cuda/lib64sudo ldconfig /usr/local/cuda/lib64
+ sudo ldconfig /usr/local/cuda/lib64
+
 
  29s 39ms/step - loss: 0.9694 - acc: 0.6392 - val_loss: 1.1982 - val_acc: 0.6418  keras1- first_try.h5
  3s 257us/step - loss: 0.4126 - acc: 0.8251 - val_loss: 0.5720 - val_acc: 0.7842  keras2 -  bottleneck_fc_model.h5
+
+vgg16
+('Loss: ', 0.15504143817273183, 'Accuracy: ', 0.9469594594594595)
+[{'seborrheic keratosis:negative': 69, 'seborrheic keratosis:positive': 721},
+{'rosacea:positive': 643, 'rosacea:negative': 29},
+{'acne:negative': 20, 'acne:positive': 730},
+ {'basal_cell_carcinoma:positive': 718, 'basal_cell_carcinoma:negative': 40}]
+
+keras100_epoch
+[{'seborrheic keratosis:negative': 67, 'seborrheic keratosis:positive': 723},
+{'rosacea:positive': 626, 'rosacea:negative': 46},
+{'acne:negative': 103, 'acne:positive': 647},
+{'basal_cell_carcinoma:positive': 659, 'basal_cell_carcinoma:negative': 99}]
