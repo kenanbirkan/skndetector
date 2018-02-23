@@ -14,7 +14,7 @@ from keras.callbacks import EarlyStopping, ModelCheckpoint
 from vgg19_bottleneck import top_model_weights_path, train_data_dir, validation_data_dir, img_height, img_width, bft_file, bfv_file
 
 # number of epochs to train top model
-epochs = 100  # TODO update
+epochs = 100
 # batch size used by flow_from_directory and predict_generator
 batch_size = 16
 
