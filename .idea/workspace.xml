@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="b13697fb-a57a-417f-9272-460e3049f9d0" name="Default" comment="vgg16 update">
       <change beforePath="" afterPath="$PROJECT_DIR$/test_keras/inceptionv3/__init__.py" />
       <change beforePath="" afterPath="$PROJECT_DIR$/test_keras/inceptionv3/inceptionv3_main.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+=======
+    <list default="true" id="b13697fb-a57a-417f-9272-460e3049f9d0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_keras/vgg19/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_keras/vgg19/vgg19_bottleneck.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_keras/vgg19/vgg_19_main.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dermnet/timecoverspider/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dermnet/timecoverspider/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dermnet/timecoverspider/.idea/timecoverspider.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dermnet/timecoverspider/.idea/workspace.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+>>>>>>> 821c6b20aef613d73bb255a1ead98e0a2ce5ea37
     </list>
     <ignored path="TEST_CODE.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,6 +54,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file leaf-file-name="vgg_16_main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_keras/vgg16/vgg_16_main.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -50,25 +63,71 @@
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
+=======
+      <file leaf-file-name="keras_4.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_keras/keras_4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+              <folding />
+>>>>>>> 821c6b20aef613d73bb255a1ead98e0a2ce5ea37
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="vgg16_bottleneck.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_keras/vgg16/vgg16_bottleneck.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
               <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="22" selection-end-column="15" />
+=======
+      <file leaf-file-name="readme" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_keras/readme">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="vgg_16_main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_keras/vgg16/vgg_16_main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="131" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="131" />
+>>>>>>> 821c6b20aef613d73bb255a1ead98e0a2ce5ea37
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
       <file leaf-file-name="inceptionv3_main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_keras/inceptionv3/inceptionv3_main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2024">
               <caret line="101" column="54" lean-forward="false" selection-start-line="101" selection-start-column="54" selection-end-line="101" selection-end-column="54" />
+=======
+      <file leaf-file-name="vgg19_bottleneck.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_keras/vgg19/vgg19_bottleneck.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-422">
+              <caret line="106" column="92" selection-start-line="106" selection-start-column="38" selection-end-line="106" selection-end-column="92" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vgg_19_main.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_keras/vgg19/vgg_19_main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-26">
+              <caret line="89" column="69" selection-start-line="89" selection-start-column="69" selection-end-line="89" selection-end-column="69" />
+>>>>>>> 821c6b20aef613d73bb255a1ead98e0a2ce5ea37
               <folding>
                 <element signature="e#0#55#0" expanded="true" />
               </folding>
@@ -76,8 +135,33 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="dermnet_spider.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dermnet/dermnet/spiders/dermnet_spider.py">
+=======
+      <file leaf-file-name="optimizers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../dl2.7_venv/local/lib/python2.7/site-packages/keras/optimizers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="303">
+              <caret line="148" column="8" selection-start-line="148" selection-start-column="8" selection-end-line="148" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vgg19.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../dl2.7_venv/local/lib/python2.7/site-packages/keras/applications/vgg19.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-237">
+              <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="augment_data.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_keras/augment_data.py">
+>>>>>>> 821c6b20aef613d73bb255a1ead98e0a2ce5ea37
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -140,9 +224,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/timecoverspider/output.json" />
         <option value="$PROJECT_DIR$/timecoverspider/dermnet_output.json" />
         <option value="$PROJECT_DIR$/timecoverspider/timecoverspider/settings.py" />
+=======
+>>>>>>> 821c6b20aef613d73bb255a1ead98e0a2ce5ea37
         <option value="$PROJECT_DIR$/timecoverspider/label_image.py" />
         <option value="$PROJECT_DIR$/timecoverspider/dermis/dermis/settings.py" />
         <option value="$PROJECT_DIR$/timecoverspider/dermis/dermis/items.py" />
@@ -190,7 +277,12 @@
         <option value="$PROJECT_DIR$/test_keras/readme" />
         <option value="$PROJECT_DIR$/test_keras/tools/utils.py" />
         <option value="$PROJECT_DIR$/test_keras/vgg16/vgg_16_main.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/test_keras/inceptionv3/inceptionv3_main.py" />
+=======
+        <option value="$PROJECT_DIR$/test_keras/vgg19/vgg19_bottleneck.py" />
+        <option value="$PROJECT_DIR$/test_keras/vgg19/vgg_19_main.py" />
+>>>>>>> 821c6b20aef613d73bb255a1ead98e0a2ce5ea37
       </list>
     </option>
   </component>
@@ -210,7 +302,7 @@
     <option name="STATE" value="1" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -226,6 +318,7 @@
     <panes>
       <pane id="ProjectPane">
         <subPane>
+<<<<<<< HEAD
           <expand>
             <path>
               <item name="TEST_CODE" type="b2602c69:ProjectViewProjectNode" />
@@ -244,9 +337,122 @@
             </path>
           </expand>
           <select />
+=======
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TEST_CODE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TEST_CODE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TEST_CODE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TEST_CODE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TEST_CODE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_keras" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TEST_CODE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TEST_CODE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_keras" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vgg19" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TEST_CODE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TEST_CODE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_keras" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vgg16" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+>>>>>>> 821c6b20aef613d73bb255a1ead98e0a2ce5ea37
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="TEST_CODE">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="TEST_CODE">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="test_keras">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="TEST_CODE">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="test_keras">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="vgg19">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scratches" />
     </panes>
   </component>
@@ -259,11 +465,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test_keras/vgg19" />
       <recent name="$PROJECT_DIR$/hellenic" />
       <recent name="$PROJECT_DIR$/hellenic/hellenic/spiders" />
       <recent name="$PROJECT_DIR$/uiowa" />
       <recent name="$PROJECT_DIR$/uiowa/uiowa/spiders" />
-      <recent name="$PROJECT_DIR$/dermquest" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -542,6 +748,7 @@
       <option name="presentableId" value="Default" />
       <updated>1510213847716</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00001" summary="vgg16 update">
       <created>1519235626556</created>
       <option name="number" value="00001" />
@@ -557,11 +764,25 @@
       <updated>1519236692921</updated>
     </task>
     <option name="localTasksCounter" value="3" />
+=======
+    <task id="LOCAL-00001" summary="update">
+      <created>1519298501440</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1519298501440</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+>>>>>>> 821c6b20aef613d73bb255a1ead98e0a2ce5ea37
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="-4" width="1857" height="1092" extended-state="6" />
     <layout>
+<<<<<<< HEAD
+=======
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25517994" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+>>>>>>> 821c6b20aef613d73bb255a1ead98e0a2ce5ea37
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32795697" sideWeight="0.50193477" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24623656" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -573,6 +794,10 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946378" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
+=======
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.264988" sideWeight="0.49781898" order="9" side_tool="false" content_ui="tabs" />
+>>>>>>> 821c6b20aef613d73bb255a1ead98e0a2ce5ea37
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39784947" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -621,8 +846,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+<<<<<<< HEAD
     <MESSAGE value="vgg16 update" />
     <option name="LAST_COMMIT_MESSAGE" value="vgg16 update" />
+=======
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+>>>>>>> 821c6b20aef613d73bb255a1ead98e0a2ce5ea37
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -786,6 +1016,19 @@ json.load(response.text)</expression-string>
     </expressions>
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/hellenic/hellenic/spiders/hellenic_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 821c6b20aef613d73bb255a1ead98e0a2ce5ea37
     <entry file="file://$PROJECT_DIR$/hellenic/label_image.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -867,6 +1110,7 @@ json.load(response.text)</expression-string>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/../../dl2.7_venv/local/lib/python2.7/site-packages/keras/preprocessing/image.py" />
     <entry file="file://$PROJECT_DIR$/dataset1.txt" />
     <entry file="file://$PROJECT_DIR$/dataset.txt" />
@@ -879,6 +1123,8 @@ json.load(response.text)</expression-string>
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> 821c6b20aef613d73bb255a1ead98e0a2ce5ea37
     <entry file="file://$PROJECT_DIR$/test_keras/keras_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="946">
@@ -1008,8 +1254,63 @@ json.load(response.text)</expression-string>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_keras/inceptionv3/inceptionv3_main.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="2024">
           <caret line="101" column="54" lean-forward="false" selection-start-line="101" selection-start-column="54" selection-end-line="101" selection-end-column="54" />
+=======
+        <state relative-caret-position="1422">
+          <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_keras/readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../dl2.7_venv/local/lib/python2.7/site-packages/keras/applications/vgg19.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-237">
+          <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../dl2.7_venv/local/lib/python2.7/site-packages/keras/optimizers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="148" column="8" selection-start-line="148" selection-start-column="8" selection-end-line="148" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_keras/vgg16/vgg_16_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="131" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="131" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_keras/vgg19/vgg19_bottleneck.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-422">
+          <caret line="106" column="92" selection-start-line="106" selection-start-column="38" selection-end-line="106" selection-end-column="92" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_keras/vgg19/vgg_19_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26">
+          <caret line="89" column="69" selection-start-line="89" selection-start-column="69" selection-end-line="89" selection-end-column="69" />
+>>>>>>> 821c6b20aef613d73bb255a1ead98e0a2ce5ea37
           <folding>
             <element signature="e#0#55#0" expanded="true" />
           </folding>
