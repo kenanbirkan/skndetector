@@ -31,12 +31,12 @@ def train_top_model():
     # top_model.add(Dense(256, activation='relu'))
     # top_model.add(Dropout(0.5))
     # top_model.add(Dense(4, activation='softmax'))
-    top_model.add(Flatten(input_shape=train_data.shape[1:]))
+    top_model.add(Flatten(input_shape=base_model.output_shape[1:]))
     top_model.add(Dense(4096, activation='relu'))
     top_model.add(Dropout(0.5))
     top_model.add(Dense(4096, activation='relu'))
     top_model.add(Dropout(0.5))
-    top_model.add(Dense(num_classes, activation='softmax'))
+    top_model.add(Dense(4, activation='softmax'))
 
     # note that it is necessary to start with a fully-trained
     # classifier, including the top classifier,
@@ -55,7 +55,7 @@ def train_top_model():
     # compile the model with a SGD/momentum optimizer
     # and a very slow learning rate.
     model.compile(loss='categorical_crossentropy',
-                  optimizer=optimizers.SGD(lr=1e-3, decay=1e-6, momentum=0.9, nesterov=True),
+                  optimizer=optimizers.SGD(lr=1e-4, decay=1e-6, momentum=0.9, nesterov=True),
                   metrics=['accuracy'])
 
     # prepare data augmentation configuration
@@ -109,9 +109,10 @@ def train_top_model():
 if __name__ == '__main__':
     from vgg19_bottleneck import save_bottleneck_features, train_top_model_bottleneck
 
-    save_bottleneck_features()
-    train_top_model_bottleneck()
-    train_top_model()
+    # save_bottleneck_features()
+    # train_top_model_bottleneck()
+    # train_top_model()
     from test_keras.tools.utils import evaluate_model, predict_folder_path, predict
 
-    predict_folder_path(walk_dir="/home/cihan/Desktop/DATAFOLDER/test", model_path="/home/cihan/Desktop/vgg19.h5")
+    #predict_folder_path(walk_dir="/home/cihan/Desktop/DATAFOLDER/test", model_path="/home/cihan/Desktop/vgg19.h5")
+    evaluate_model("/home/cihan/Desktop/vgg19.h5")

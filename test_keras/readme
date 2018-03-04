@@ -28,3 +28,10 @@ keras100_epoch
 {'rosacea:positive': 626, 'rosacea:negative': 46},
 {'acne:negative': 103, 'acne:positive': 647},
 {'basal_cell_carcinoma:positive': 659, 'basal_cell_carcinoma:negative': 99}]
+
+vgg19:
+('Loss: ', 0.18650237850945545, 'Accuracy: ', 0.9391891891891891)
+[{'seborrheic keratosis:negative': 61, 'seborrheic keratosis:positive': 729},
+{'rosacea:positive': 634, 'rosacea:negative': 38},
+{'acne:negative': 34, 'acne:positive': 716},
+{'basal_cell_carcinoma:positive': 711, 'basal_cell_carcinoma:negative': 47}]
