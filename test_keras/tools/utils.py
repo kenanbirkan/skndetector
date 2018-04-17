@@ -64,6 +64,19 @@ def predict_folder_path(walk_dir, model_path):
 
     print result_list
 
+def evaluate_model_resnet(model_path):
+    from keras.applications.resnet50 import preprocess_input
+    model = load_model(model_path)
+    test_datagen = ImageDataGenerator(preprocessing_function=preprocess_input)
+    validation_generator = test_datagen.flow_from_directory(
+        validation_data_dir,
+        target_size=(img_height, img_width),
+        batch_size=batch_size,
+        class_mode='categorical')
+    nb_validation_samples = len(validation_generator.filenames)
+    score = model.evaluate_generator(validation_generator, nb_validation_samples / batch_size)
+    print("Loss: ", score[0], "Accuracy: ", score[1])
+
 
 def evaluate_model(model_path):
     model = load_model(model_path)
@@ -71,6 +84,19 @@ def evaluate_model(model_path):
     validation_generator = test_datagen.flow_from_directory(
         validation_data_dir,
         target_size=(img_height, img_width),
+        batch_size=batch_size,
+        class_mode='categorical')
+    nb_validation_samples = len(validation_generator.filenames)
+    score = model.evaluate_generator(validation_generator, nb_validation_samples / batch_size)
+    print("Loss: ", score[0], "Accuracy: ", score[1])
+
+def evaluate_model_inc(model_path):
+    from keras.applications.inception_v3 import preprocess_input
+    model = load_model(model_path)
+    test_datagen = ImageDataGenerator(preprocessing_function=preprocess_input)
+    validation_generator = test_datagen.flow_from_directory(
+        validation_data_dir,
+        target_size=(299, 299),
         batch_size=batch_size,
         class_mode='categorical')
     nb_validation_samples = len(validation_generator.filenames)

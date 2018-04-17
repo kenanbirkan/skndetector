@@ -1,4 +1,4 @@
-from keras.applications.inception_v3 import InceptionV3,preprocess_input
+from keras.applications.xception import Xception,preprocess_input
 from keras.layers import Dense,Dropout ,BatchNormalization,Flatten
 from keras.layers import GlobalAveragePooling2D,AveragePooling2D
 from keras.models import Model
@@ -16,15 +16,15 @@ batch_size = 16
 
 def train_maodel():
     # create the base pre-trained model
-    base_model = InceptionV3(weights='imagenet', include_top=False)
+    base_model = Xception(weights='imagenet', include_top=False)
 
     # add a global spatial average pooling layer
     x = base_model.output
     x = GlobalAveragePooling2D()(x)
-    # let's add a fully-connected layer
-    x = Dropout(0.5)(x)
-    x = Dense(1024, activation='relu')(x) # try dense layer lower TODO :
+    x = Dense(512, activation='relu')(x)
     x = BatchNormalization()(x)
+    x = Dropout(0.5)(x)
+    x = Dense(512, activation='relu')(x)
     x = Dropout(0.5)(x)
     # # and a logistic layer -- let's say we have 4 classes
 
@@ -44,10 +44,12 @@ def train_maodel():
     model.compile(optimizer='rmsprop', loss='categorical_crossentropy',
                   metrics=['accuracy'])
 
-
+    # prepare data augmentation configuration
     train_datagen = ImageDataGenerator(
-        preprocessing_function=preprocess_input
+        preprocessing_function = preprocess_input
     )
+    # # TODO try inception preprocess
+
     test_datagen = ImageDataGenerator(
         preprocessing_function=preprocess_input
     )
@@ -98,10 +100,10 @@ def train_maodel():
     # and train the remaining top layers.
 
     # we chose to train the top 2 inception blocks, i.e. we will freeze
-    # the first 249 layers and unfreeze the rest:
-    for layer in model.layers[:249]:
+    # the first 115 layers and unfreeze the rest:
+    for layer in model.layers[:115]:
        layer.trainable = False
-    for layer in model.layers[249:]:
+    for layer in model.layers[115:]:
        layer.trainable = True
 
     # we need to recompile the model for these modifications to take effect
@@ -113,8 +115,8 @@ def train_maodel():
     # we train our model again (this time fine-tuning the top 2 inception blocks
     # alongside the top Dense layers
     # Save the model according to the conditions
-    checkpoint = ModelCheckpoint("/home/cihan/Desktop/inceptionv3.h5", monitor='val_acc', verbose=1, save_best_only=True, save_weights_only=False,
-                                 mode='auto', period=2)
+    checkpoint = ModelCheckpoint("/home/cihan/Desktop/xception.h5", monitor='val_acc', verbose=1, save_best_only=True, save_weights_only=False,
+                                 mode='auto', period=1)
     early = EarlyStopping(monitor='val_acc', min_delta=0, patience=15, verbose=1, mode='auto')
 
     # fine-tune the model

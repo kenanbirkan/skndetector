@@ -35,3 +35,29 @@ vgg19:
 {'rosacea:positive': 634, 'rosacea:negative': 38},
 {'acne:negative': 34, 'acne:positive': 716},
 {'basal_cell_carcinoma:positive': 711, 'basal_cell_carcinoma:negative': 47}]
+
+inception bottleneck [INFO] accuracy: 84.24%,[INFO] Loss: 0.642128928708
+
+model.add(Flatten(input_shape=train_data.shape[1:]))
+model.add(Dense(256, activation='relu'))
+model.add(Dropout(0.5))
+model.add(Dense(num_classes, activation='softmax'))
+
+inception finetuning
+model.add(Flatten(input_shape=train_data.shape[1:]))
+model.add(Dense(256, activation='relu'))
+model.add(Dropout(0.5))
+model.add(Dense(256, activation='relu'))
+model.add(Dropout(0.5))
+model.add(Dense(num_classes, activation='softmax'))
+Found 2970 images belonging to 4 classes.
+('Loss: ', 0.568590464090576, 'Accuracy: ', 0.8108108108108109)
+
+
+
+resnet bootleneck train
+[INFO] accuracy: 89.19%
+[INFO] Loss: 0.326624255203
+
+resnet fine tune
+('Loss: ', 1.067956786388783, 'Accuracy: ', 0.8016891891891892)
